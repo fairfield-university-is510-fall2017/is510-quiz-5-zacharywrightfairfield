@@ -1,0 +1,1070 @@
+AS 0200 A 76407 3 Roots of American Culture MR 0930-1045am Bayers P
+AS 0400 01 76513 3 Critical Issues/Amer Studies W 0630-0830pm Garvey J By Permission
+AS 0488 01 76934 3 Frontier in American Culture M 0630-0830pm Bayers P By Permission
+ASEN 0490 01 76935 3 Contemporary American Memoir T 0545-0745pm Lopez E By Permission
+AY 0010 C01 75478 3 Intro to Four-Field Anthropo TF 1230-0145pm Lacy S CRNST, WDiv
+AY 0010 C02 75479 3 Intro to Four-Field Anthropo TF 1100-1215pm Lacy S CRNST, WDiv
+AY 0052 A 75752 3 Culture and Political Economy TR 0630-0745pm Crawford D
+AY 0052 B 76300 3 Culture and Political Economy MR 0930-1045am Wilson J
+AY 0110 A 75297 3 Biological Anthropology M 0630-0900pm Wilson J
+AY 0111 A 75728 3 Cultural Anthropology MR 1230-0145pm Crawford D WDiv
+AY 0111 B 76753 3 Cultural Anthropology TF 0200-0315pm Wessler S WDiv
+AY 0115 A 76758 3 Biomedical Anthropology T 0630-0900pm Aronsen G
+AY 0152 A 76303 3 Islamic Societies & Cultures MR 0930-1045am Crawford D ResColl,  Wdiv
+AY 0168 A 76754 3 Women & Men: Anthro of Gender TF 0330-0445pm Wessler S WDiv
+AE 0262 A 75333 3 Ethics and the Community W 0200-0430pm Liftig R USDiv
+AE 0265 A 75233 3 Ethics in Education TR 0500-0615pm Liftig R USDiv
+AE 0276 A 75282 3 Ethical DimensGlobal BusPolicy MR 0930-1045am Day R WDiv
+AE 0281 A 76234 3 Ethics of Communications T 0630-0900pm Butler B
+AE 0284 A 76826 3 Environmental Ethics WF 0800-0915am Brown D
+AE 0284 B 75125 3 Environmental Ethics R 0630-0900pm Brown D
+AE 0285 A 75001 3 Ethics of Health Care MW 0500-0615pm STAFF
+AE 0291 A 75002 3 Business Ethics MR 0800-0915am Schmidt D
+AE 0291 B 75003 3 Business Ethics Online Sticca-Conrod L
+AE 0291 C 75070 3 Business Ethics Online Sticca-Conrod L
+AE 0291 D 75308 3 Business Ethics T 0630-0900pm Ventrella S
+AE 0291 E 75313 3 Business Ethics W 0630-0900pm Yoder J
+AE 0291 F 76827 3 Business Ethics W 1100-0130pm Schmidt N
+AE 0291 G 76828 3 Business Ethics M 0630-0900pm Schmidt D
+AR 0110 A 75344 3 Elementary Arabic I MW 0300-0445pm Douda A
+AR 0210 A 75402 3 Intermediate Arabic I MW 0500-0645pm Douda A
+AR 0381 A 75745 3 Coordinating Seminar W 0100-0200pm Douda A
+AH 0010 01 76861 3 Origins & Transform Westrn Art Online Poe A
+AH 0010 A 75165 3 Origins & Transform Westrn Art MR 1230-0120pm W 1200-1250pm Schwab K
+AH 0010 01 76861 3 Origins & Transform Westrn Art Online Poe A
+AH 0010 A 75165 3 Origins & Transform Westrn Art MR 1230-0120pm  W 1200-1250pm Schwab K
+AH 0010 B 75166 3 Origins & Transform Westrn Art TF 0930-1045am Eliasoph P
+AH 0010 C01 75559 3 Origins & Transform Westrn Art TWF 1100-1150am Rose M CRNST
+AH 0010 D 75167 3 Origins & Transform Westrn Art TF 1100-1215pm Eliasoph P
+AH 0010 E 75168 3 Origins & Transform Westrn Art T 0630-0900pm Eliasoph P
+AH 0010 F 75432 3 Origins & Transform Westrn Art TF 1230-0120pm  W 0100-0150pm Rose M
+AH 0010 G 76860 3 Origins & Transform Westrn Art MR 0930-1045am Schwab K
+AH 0013 A 76317 3 Art/ Africa,Caribbean,Americas MR 0930-1045am Covaci I WDiv
+AH 0014 A 76318 3 Art of Asia MR 1100-1215pm Covaci I WDiv
+AH 0112 A 76862 3 Etruscan & Roman Art & Archaeo TF 0200-0315pm Rose M JUHAN
+AH 0130 A 76863 3 Renaissance Art in Italy W 0200-0430pm Eliasoph P
+AH 0172 A 76864 3 History of Photography MR 0330-0445pm Cesiro L ResColl
+AH 0290B A 76865 3 Topics: Hair in Classical Wrld MR 0200-0315pm Schwab K
+AN 0310 A 75456 3 Asian Studies Seminar MR 1230-0145pm STAFF
+BI 0015 A 75944 3 General Biology I MR 0200-0315pm Blough C
+BI 0015 B 76788 3 General Biology I MR 0330-0445pm Blough C
+BI 0018 A 75219 3 Human Biology: Form & Function MR 0930-1045am Dutta I
+BI 0018 B 75304 3 Human Biology: Form & Function MR 1100-1215pm Dutta I
+BI 0070 A 76460 3 Science, Technology & Society TF 0800-0915am STAFF
+BI 0070 B 76461 3 Science, Technology & Society TF 0930-1045am STAFF
+BI 0073 A 76287 3 Contemp Nutr:Food for Thought MR 0930-1045am Vernarelli J
+BI 0074 A 76789 3 Biology of Food TF 1100-1215pm Klug J Water
+BI 0075 A 76790 3 Ecology and Society MW 0630-0745pm Choly J ResColl, Water
+BI 0078 A 76235 3 Introduction to Marine Science TR 0500-0615pm Ortman B
+BI 0078 B 76236 3 Introduction to Marine Science TR 0630-0745pm Ortman B
+BI 0096 A 76791 3 God and Modern Biology MR 1100-1215pm Sauer G ResColl
+BI 0107 A 76422 4 Human Anatomy & Physiology MR 1100-1215pm Earls C
+BI 0107 A-C 75868 4 Human Anatomy & Physiology MR 1100-1215pm Earls C CRNST
+BI 0107 B 76423 4 Human Anatomy & Physiology MR 1230-0145pm DeCristofaro A
+BI 0107 B-C 76120 4 Human Anatomy & Physiology MR 1230-0145pm DeCristofaro A CRNST
+BI 0107L A 75617 0 Human Anatomy & Physiology Lab M 0100-0350pm Earls C
+BI 0107L B 75621 0 Human Anatomy & Physiology Lab T 0900-1150am STAFF
+BI 0107L C 75646 0 Human Anatomy & Physiology Lab W 0830-1120am DeCristofaro A
+BI 0107L D 75647 0 Human Anatomy & Physiology Lab W 1230-0320pm DeCristofaro A
+BI 0107L E 75653 0 Human Anatomy & Physiology Lab W 0530-0820pm STAFF
+BI 0107L F 76060 0 Human Anatomy & Physiology Lab R 0100-0350pm Earls C
+BI 0107L G 76462 0 Human Anatomy & Physiology Lab F 1000-1250pm Earls C
+BI 0151 A 75279 4 Elements of Microbiology MR 1230-0145pm Zavras E NS Only
+BI 0151L A 75662 0 Elements of Microbiology Lab M 0200-0450pm Zavras E NS Only
+BI 0151L B 75663 0 Elements of Microbiology Lab T 0200-0450pm Zavras E NS Only
+BI 0151L C 75664 0 Elements of Microbiology Lab R 0200-0450pm Zavras E NS Only
+BI 0170 A 76424 4 General Biology I TF 0930-1045am Fernandez A
+BI 0170 A-C 75468 4 General Biology I TF 0930-1045am Fernandez A CRNST
+BI 0170 B 76425 4 General Biology I TF 1230-0145pm Fernandez A
+BI 0170 B-C 75212 4 General Biology I TF 1230-0145pm Fernandez A CRNST
+BI 0170L A 75665 0 General Biology I Lab M 0200-0450pm Braun P
+BI 0170L B 75666 0 General Biology I Lab M 0200-0450pm Biardi L
+BI 0170L C 75667 0 General Biology I Lab T 0200-0450pm Andersen C
+BI 0170L D 75668 0 General Biology I Lab T 0200-0450pm Phelan S
+BI 0170L E 75669 0 General Biology I Lab W 0200-0450pm Andersen C
+BI 0170L F 75670 0 General Biology I Lab W 0200-0450pm STAFF
+BI 0170L G 75671 0 General Biology I Lab W 0530-0820pm STAFF
+BI 0170L H 75672 0 General Biology I Lab R 0200-0450pm Braun P
+BI 0170L I 75673 0 General Biology I Lab R 0200-0450pm STAFF
+BI 0170P A 75674 0 General Biology I PLG T 0300-0350pm STAFF
+BI 0170P B 75675 0 General Biology I PLG T 0400-0450pm STAFF
+BI 0170P C 75677 0 General Biology I PLG T 0500-0550pm STAFF
+BI 0170P D 75679 0 General Biology I PLG T 0600-0650pm STAFF
+BI 0170P E 75680 0 General Biology I PLG W 0300-0330pm STAFF
+BI 0170P F 75681 0 General Biology I PLG W 0400-0450pm STAFF
+BI 0170P G 75682 0 General Biology I PLG W 0500-0550pm STAFF
+BI 0170P H 75683 0 General Biology I PLG W 0600-0650pm STAFF
+BI 0170P I 75684 0 General Biology I PLG R 0300-0350pm STAFF
+BI 0170P J 75685 0 General Biology I PLG R 0400-0450pm STAFF
+BI 0170P K 75686 0 General Biology I PLG R 0500-0550pm STAFF
+BI 0170P L 75687 0 General Biology I PLG R 0600-0650pm STAFF
+BI 0172 A 75250 4 General Biology III TF 1100-1215pm Biardi J
+BI 0172L A 75688 0 General Biology III Lab M 0200-0450pm Biardi J
+BI 0172L B 75689 0 General Biology III Lab T 0200-0450pm Osier T
+BI 0172L C 75690 0 General Biology III Lab W 0200-0450pm Osier T
+BI 0172L D 75691 0 General Biology III Lab W 0200-0450pm Ansari J
+BI 0172L E 76430 0 General Biology III Lab R 0200-0450pm Brousseau D
+BI 0201 A 75695 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0202 A 75758 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0203 A 75759 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0204 A 76237 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0205 A 76238 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0206 A 76792 1 Biology Teaching Practicum By Arrangement Gerry S
+BI 0262 A 76793 4 Human Physiology MR 0930-1045am Gerry S
+BI 0262L A 76794 0 Human Physiology Lab T 0200-0450pm Gerry S
+BI 0296 A 75066 3 Special Topics in Biology By Arrangement Harriott O
+BI 0317 A 76798 4 Epidemiology & Applied Biostat MR 1230-0145pm Vernarelli J
+BI 0324 A 76239 3 Biochemistry I MR 1100-1215pm STAFF
+BI 0324L A 76795 1 Biochemistry I Lab M 0200-0450pm STAFF
+BI 0325 A 76796 3 Biochemistry II MR 0800-0915am Sauer G
+BI 0325L A 76797 1 Biochemistry II Lab R 0200-0450pm Sauer G
+BI 0352 A 75415 4 Fundamentals of Microbiology TF 1230-0145pm Harriott O
+BI 0352L A 75694 0 Fund. of Microbiology Lab R 0930-1220pm Harriott O
+BI 0354 A 75575 3 Molecular Biology MR 1230-0145pm Braun P
+BI 0362 A 75280 4 Marine Invertebrate Zoology MR 1230-0145pm Brousseau D Water
+BI 0362L A 75692 0 Marine Invertebrate Zoolgy Lab M 0200-0450pm Brousseau D
+BI 0365 A 75450 4 Evolutionary Biology TF 0930-1045am Byun S
+BI 0365L A 75693 0 Evolutionary Biology Lab R 0100-0350pm Byun S
+BI 0381B A 76800 3 Sem: Molec Mech /Human Disease TF 1100-1215pm Phelan S
+BI 0381D A 76801 3 Sem: Nutritional Epigenetics TF 1100-1215pm Andersen C
+BI 0391 A 75416 3 Biology Research I W 1100-0130pm Biardi J
+BI 0392 A2 75417 2 Biology Research II W 1100-0130pm Biardi J
+BI 0392 A3 76434 3 Biology Research II W 1100-0130pm Biardi J
+BI 0393 A 75418 3 Biology Research III W 1100-0130pm Biardi J
+BI 0394 A 76802 3 Biology Research IV W 1100-0130pm Biardi J
+CH 0007 A 76783 3 Intro to Forensic Science MR 1230-0145pm Harper-Leatherman A ResColl
+CH 0010 A 76100 3 Chemistry: Sights & Insights TF 1230-0145pm OÕConnell E
+CH 0083 A 75152 3 Survey of Chemistry MR 0800-0915am Bethray S Water
+CH 0084 A 75293 3 Gen Chem for Health Science TF 0200-0315pm Reilly-Wiedow E
+CH 0084L A 75589 1 Gen Chem Health Science Lab M 0900-1150am STAFF
+CH 0084L B 75590 1 Gen Chem Health Science Lab T 0900-1150am Reilly-Wiedow E
+CH 0084L C 75591 1 Gen Chem Health Science Lab W 0900-1150am Reilly-Wiedow E
+CH 0084L D 76245 1 Gen Chem Health Science Lab R 0900-1150am Reilly-Wiedow E
+CH 0085 A 75588 3 Chemistry,Energy & Environment MR 0200-0315pm Steffen L
+CH 0086 A 75457 3 Chemistry and Art TR 0500-0615pm Sobczynski D
+CH 0111 A 75600 3 General Chemistry I W 0600-0900pm STAFF EG Only
+CH 0111 B 75601 3 General Chemistry I MR 1230-0145pm  W 1200-1250pm Fischer R
+CH 0111 C 75602 3 General Chemistry I R 0200-0250pm  TF 0830-0920am W 0800-0850am Kubasik M
+CH 0111 D 75603 3 General Chemistry I M 1100-1150am  TWF 1100-1150am Weddle G
+CH 0111 E 75604 3 General Chemistry I M 0930-1020am  TWF 0930-1020am Weddle G
+CH 0111 F 75718 3 General Chemistry I MR 1100-1215pm  W 1000-1050am Fischer R
+CH 0111L A 75578 1 General Chemistry I Lab M 1230-0320pm STAFF
+CH 0111L B 75579 1 General Chemistry I Lab M 0500-0750pm STAFF
+CH 0111L C 75580 1 General Chemistry I Lab T 1230-0320pm Weddle G
+CH 0111L D 75581 1 General Chemistry I Lab T 0500-0750pm Fischer S
+CH 0111L E 75582 1 General Chemistry I Lab W 0100-0350pm Fischer S
+CH 0111L F 75583 1 General Chemistry I Lab W 0500-0750pm STAFF
+CH 0111L G 75584 1 General Chemistry I Lab R 1230-0320pm Harper J
+CH 0111L H 75585 1 General Chemistry I Lab R 0500-0750pm STAFF
+CH 0111L I 75586 1 General Chemistry I Lab F 0900-1150am STAFF
+CH 0111L J 75587 1 General Chemistry I Lab F 1230-0320pm STAFF
+CH 0211 A 75061 3 Organic Chemistry I MR 0800-0915am  W 0800-0850am STAFF
+CH 0211 B 75062 3 Organic Chemistry I TF 0930-1045am  W 1000-1050am STAFF
+CH 0211 C 75473 3 Organic Chemistry I MR 0930-1045am  W 0900-0950am STAFF
+CH 0211L A 75592 1 Organic Chemistry I Lab M 1230-0430pm Lloyd J
+CH 0211L B 75593 1 Organic Chemistry I Lab T 1230-0430pm Schirmann P
+CH 0211L C 75594 1 Organic Chemistry I Lab W 0100-0500pm Lloyd J
+CH 0211L D 75595 1 Organic Chemistry I Lab R 1230-0430pm OÕConnell E
+CH 0211L E 75596 1 Organic Chemistry I Lab R 0500-0850pm Schirmann P
+CH 0211L F 75597 1 Organic Chemistry I Lab F 1230-0430pm STAFF
+CH 0261 A 75063 3 Physical Chemistry I TWF 1100-1150am Kubasik M
+CH 0261L A 75598 1 Physical Chemistry I Lab T 0200-0450pm Kubasik M
+CH 0324 A 76246 3 Biochemistry I MR 1100-1215pm STAFF
+CH 0324L A 76784 1 Biochemistry I Lab M 0200-0450pm STAFF
+CH 0325 A 76785 3 Biochemistry II MR 0800-0915am Sauer G
+CH 0325L A 76786 1 Biochemistry II Lab R 0200-0450pm STAFF
+CH 0326 A 75294 3 Chemical Instrumentation TF 0930-1045am Harper-Leatherman A
+CI 0110 A 75348 3 Elementary Chinese I TWF 0200-0250pm STAFF
+CI 0210 A 75349 3 Intermediate Chinese I TF 1230-0130pm  W 0100-0150pm STAFF
+CL 0106 A 76773 3 MasterpiecesGrk Lit/Eng Transl W 0630-0900pm Rosivach V English Core
+CL 0116 A 76242 3 Roman Civilization MR 1100-1215pm Ruffini G History Core
+CL 0116 B 76243 3 Roman Civilization MR 0200-0315pm Ruffini G History Core
+CO 0100 A 75134 3 Human Communication Theories TWF 1100-1150am Ryan M
+CO 0100 B 75148 3 Human Communication Theories TF 0200-0315pm Brennan N
+CO 0100 C01 75133 3 Human Communication Theories TF 0930-1020am  W 0900-0950am Ryan M CRNST
+CO 0100 D 75721 3 Human Communication Theories TF 0330-0445pm Brennan N
+CO 0101 A 75135 3 Argument and Advocacy MR 0800-0915am DÕAmico C
+CO 0101 B 75136 3 Argument and Advocacy MR 0930-1045am DÕAmico C
+CO 0101 C 75190 3 Argument and Advocacy M 0630-0900pm Larkin T
+CO 0101 D 75543 3 Argument and Advocacy TF 1230-0145pm Smith J
+CO 0101 E 75544 3 Argument and Advocacy TF 0200-0315pm Smith J
+CO 0102 A 76782 3 Intro to Public Relations MW 0500-0615pm Arendt C
+CO 0130 A 75334 3 Mass Media and Society TF 0930-1045am STAFF
+CO 0130 B 75335 3 Mass Media and Society R 0700-0930pm Duarte L
+CO 0130 C 76495 3 Mass Media and Society TF 0800-0915am STAFF
+CO 0200 A 75234 3 Interpersonal Comm Theories TF 0930-1045am Nuru A
+CO 0200 B 75472 3 Interpersonal Comm Theories TF 1230-0145pm Ryan M
+CO 0220 A 75195 3 Intro Organizational Comm MR 0200-0315pm Pagano M
+CO 0231 A 76249 3 Media Institutions TF 0930-1045am Gil-Egui G
+CO 0231 B 76759 3 Media Institutions TF 1100-1215pm Gil-Egui G
+CO 0236 A 76760 3 Gender, Sexuality, and Media M 0500-0730pm Gudelunas D USDiv
+CO 0238 A 76250 3 Comm & Popular Culture MR 1230-0145pm STAFF
+CO 0248 A 75545 3 Health Communication MR 1100-1215pm Pagano M
+CO 0309 A 75137 3 Research Proj in Comm:Capstone MR 0930-1045am Wills M
+CO 0309 B 75138 3 Research Proj in Comm:Capstone MR 1100-1215pm Wills M
+CO 0309 C 75174 3 Research Proj in Comm:Capstone TF 1100-1215pm Nuru A
+CO 0309 D 75720 3 Research Proj in Comm:Capstone TF 1230-0145pm Nuru A
+CO 0321 A 76761 3 Comm Proc in Orgs: Negotiation MR 0500-0615pm Pagano M
+CO 0331 A 76762 3 American Media / Amer History MR 0330-0445pm STAFF
+CO 0342 A 76763 3 Technoculture & Info Society T 0500-0730pm Gil-Egui G
+CO 0345 A 76254 3 Relational Communication W 1100-0130pm Zhang Q
+CO 0346 A 76764 3 Communication and Spirituality MR 0200-0315pm Wills M
+EC 0011 C01 75142 3 Introduction to Microeconomics MR 0200-0315pm Aksan A CRNST
+EC 0011 C02 75143 3 Introduction to Microeconomics MR 0800-0915am Lane P CRNST
+EC 0011 C03 75388 3 Introduction to Microeconomics MR 0330-0445pm Aksan A CRNST
+EC 0011 C04 75877 3 Introduction to Microeconomics TF 0800-0915am Murray T CRNST
+EC 0011 C05 75878 3 Introduction to Microeconomics TF 0930-1045am Murray T CRNST
+EC 0011 C06 76116 3 Introduction to Microeconomics TF 1100-1215pm Murray T CRNST
+EC 0011 G 75141 3 Introduction to Microeconomics TF 1100-1215pm Franceschi D
+EC 0011 H 75144 3 Introduction to Microeconomics TF 1230-0145pm Franceschi D
+EC 0011 I 75145 3 Introduction to Microeconomics MR 0930-1045am McCloghry G
+EC 0011 J 75146 3 Introduction to Microeconomics MR 0330-0445pm Martin T
+EC 0011 K 75147 3 Introduction to Microeconomics TF 0330-0445pm Martin T
+EC 0011 L 75386 3 Introduction to Microeconomics MR 0500-0615pm Martin T
+EC 0011 M 75387 3 Introduction to Microeconomics MR 1230-0145pm McCloghry G
+EC 0011 N 75389 3 Introduction to Microeconomics TF 0930-1045am Shadmani H
+EC 0011 O 75732 3 Introduction to Microeconomics TF 0200-0315pm Martin T
+EC 0011 P 75869 3 Introduction to Microeconomics TF 1100-1215pm Shadmani H
+EC 0011 Q 76492 3 Introduction to Microeconomics TF 1230-0145pm Shadmani H
+EC 0011 R 76506 3 Introduction to Microeconomics TBA STAFF
+EC 0011 S 76507 3 Introduction to Microeconomics TBA STAFF
+EC 0011 T 76508 3 Introduction to Microeconomics TBA STAFF
+EC 0011 U 76509 3 Introduction to Microeconomics TBA STAFF
+EC 0011 V 76928 3 Introduction to Microeconomics TBA STAFF
+EC 0114 A 76929 3 Race,Class,Gendr in Amer Wkplc TF 0930-1045am Nantz K USDiv
+EC 0204 A 75006 3 Interm Microeconomic Theory TF 1230-0145pm Nantz K
+EC 0204 B 75193 3 Interm Microeconomic Theory TF 0200-0315pm Nantz K
+EC 0204L A 75493 1 Interm Micro Econ Theory Lab W 0100-0150pm Nantz K
+EC 0210 A 75007 3 Money and Banking MR 0930-1020am  W 0900-0950am Lane P ResColl
+EC 0230 A 76363 3 Comparative Economic Systems TF 0330-0445pm STAFF WDiv
+EC 0235 A 76930 3 Economic Development TF 0200-0315pm Aksan A WDiv
+EC 0278 A 75008 3 Statistics MR 0800-0915am Vasquez Mazariegos
+EC 0278 B 76931 3 Statistics MR 0930-1045am Vasquez Mazariegos
+EC 0278L A 75494 1 Statistics Lab W 0900-0950am Vasquez Mazariegos
+EC 0290 A 76932 3 Mathematical Economics MR 0200-0315pm Vasquez Mazariegos
+EC 0398 A 75281 3 Senior Seminar MR 1230-0145pm Lane P
+ED 0200 A 75448 3 Explorations in Education W 0800-1030am Storms S USDiv, SerL
+ED 0200 B 76384 3 Explorations in Education W 0800-1030am Calderwood P USDiv, SerL
+ED 0241 A 75011 3 Educational Psychology M 0800-1030am Welles-Nystrom B
+ED 0329 A 75249 3 Philosophy of Education: Intro W 1100-0130pm Kohli W SerL
+ED 0329 B 76385 3 Philosophy of Education: Intro R 0430-0700pm Kohli W SerL
+EN 0011 C01 75013 3 Texts and Contexts I MR 1230-0145pm Madden C CRNST, Water
+EN 0011 C02 75020 3 Texts and Contexts I MR 1100-1215pm Chisum P CRNST
+EN 0011 C03 75024 3 Texts and Contexts I TF 0930-1045am Bodach J CRNST, Water
+EN 0011 C04 75033 3 Texts and Contexts I MR 1100-1215pm Boquet E CRNST
+EN 0011 C05 75036 3 Texts and Contexts I TF 0200-0315pm Marciano L CRNST
+EN 0011 C06 75068 3 Texts and Contexts I TF 0200-0315pm Hilts E CRNST
+EN 0011 C07 75127 3 Texts and Contexts I TF 1100-1215pm Marciano L CRNST
+EN 0011 C08 75548 3 Texts and Contexts I MR 0200-0315pm Madden C CRNST, Water
+EN 0011 C09 75771 3 Texts and Contexts I TF 0800-0915am Bodach J CRNST, Water
+EN 0011 D 75012 3 Texts and Contexts I Online Bellas G USDiv, Water
+EN 0011 DD 75393 3 Texts and Contexts I MR 1230-0145pm Murphy M
+EN 0011 E 75014 3 Texts and Contexts I TF 0200-0315pm Ferrara L Water
+EN 0011 EE 75394 3 Texts and Contexts I TF 0930-1045am Barna C Water
+EN 0011 F 75015 3 Texts and Contexts I MR 0800-0915am Dimyan R Water
+EN 0011 FF 75395 3 Texts and Contexts I TF 1230-0145pm Krauss J USDiv
+EN 0011 G 75016 3 Texts and Contexts I MR 1230-0145pm Hoover B Water
+EN 0011 GG 75397 3 Texts and Contexts I TF 0200-0315pm DeStefano M
+EN 0011 H 75017 3 Texts and Contexts I MR 0330-0445pm Burlinson J
+EN 0011 HH 75420 3 Texts and Contexts I TF 1100-1215pm Orlando E
+EN 0011 I 75018 3 Texts and Contexts I MW 0500-0615pm Chesbro J
+EN 0011 II 75421 3 Texts and Contexts I MR 0200-0315pm Halloran C
+EN 0011 J 75019 3 Texts and Contexts I MR 1100-1215pm Murphy M
+EN 0011 JJ 75422 3 Texts and Contexts I MR 0330-0445pm Winslow L
+EN 0011 K 75021 3 Texts and Contexts I MR 1100-1215pm Hosten C Water
+EN 0011 KK 75481 3 Texts and Contexts I MR 0330-0445pm STAFF
+EN 0011 L 75022 3 Texts and Contexts I TF 0200-0315pm Otfinoski S Water
+EN 0011 LL 75547 3 Texts and Contexts I MW 0500-0615pm White M USDiv
+EN 0011 M 75023 3 Texts and Contexts I TF 0200-0315pm Krauss J USDiv
+EN 0011 MM 75549 3 Texts and Contexts I MR 0330-0445pm Scrunton J
+EN 0011 N 75025 3 Texts and Contexts I TF 1230-0145pm Otfinoski S Water
+EN 0011 NN 75550 3 Texts and Contexts I MR 0800-0915am Sweeney M
+EN 0011 O 75026 3 Texts and Contexts I TF 0930-1045am Ferrara L Water
+EN 0011 OO 75551 3 Texts and Contexts I TF 1230-0145pm STAFF
+EN 0011 P 75027 3 Texts and Contexts I MW 0500-0615pm STAFF
+EN 0011 PP 75552 3 Texts and Contexts I MR 0930-1045am Sweeney M
+EN 0011 Q 75028 3 Texts and Contexts I TF 0800-0915am Bohm D
+EN 0011 QQ 75553 3 Texts and Contexts I MR 1100-1215pm Hoover B Water
+EN 0011 R 75029 3 Texts and Contexts I TBA STAFF
+EN 0011 RR 75739 3 Texts and Contexts I TF 0330-0445pm Whitaker E USDiv
+EN 0011 S 75030 3 Texts and Contexts I TF 1230-0145pm Moliterno F Water
+EN 0011 SS 75772 3 Texts and Contexts I MR 1230-0145pm Rose K Water
+EN 0011 T 75031 3 Texts and Contexts I MR 1230-0145pm Xie L
+EN 0011 TT 75773 3 Texts and Contexts I TF 0330-0445pm Halloran C
+EN 0011 U 75032 3 Texts and Contexts I MR 1230-0145pm Gannett C
+EN 0011 UU 75774 3 Texts and Contexts I MR 0930-1045am Dimyan R Water
+EN 0011 V 75034 3 Texts and Contexts I W 1100-0130pm STAFF
+EN 0011 VV 75775 3 Texts and Contexts I TF 1100-1215pm Moliterno F Water
+EN 0011 W 75035 3 Texts and Contexts I TF 1100-1215pm Barna C Water
+EN 0011 WW 76526 3 Texts and Contexts I MR 0200-0315pm Hosten C Water
+EN 0011 X 75069 3 Texts and Contexts I TF 1230-0145pm White M USDiv
+EN 0011 Y 75391 3 Texts and Contexts I TBA STAFF
+EN 0011 Z 75392 3 Texts and Contexts I TF 1230-0145pm DeStefano M
+EN 0012 A 75480 3 Texts and Contexts II TF 0800-0915am Epstein R
+EN 0012 B 75554 3 Texts and Contexts II MR 0930-1045am Davis C
+EN 0012 C 76084 3 Texts and Contexts II MR 0930-1045am Kelley S
+EN 0102 A 75730 3 Intro to Contemp Wrld Lit R 0700-0900pm OÕDriscoll S Hybrid, WDiv
+EN 0106 A 76774 3 Masterpieces of Gr Lit/Eng Tra W 0630-0900pm Rosivach V
+EN 0112 A 75819 3 19thCent Russian Nov&World Lit T 0650-0900pm Pichlikova-Burke L
+EN 0113 A 75546 3 Literature of the Holocaust TF 0200-0315pm Ostrow G JUHAN
+EN 0114 A 76366 3 Caribbean Lit:Hist, Cult, Iden TF 1230-0145pm Lopez E WDiv
+EN 0120 A 76910 3 American Women Playwrights MWR 0200-0250pm LoMonaco M
+EN 0123 A 76911 3 Ethnic American Literature TF 0930-1045am Lopez E
+EN 0126 A 76912 3 American Social Protest Litr TF 1100-1215am Petrino E ResColl, SerL Opt
+EN 0130 A 75812 3 Litr by Women: Vision&Revision TF 1230-0145pm Orlando E ResColl
+EN 0135 A 76913 3 Graphic Novels: Thrills/Chills MR 0330-0445pm OÕDriscoll S USDiv
+EN 0135 B 76950 3 Graphic Novels: Thrills/Chills MR 0330-0445pm STAFF USDiv
+EN 0141 A 76367 3 Imagining Shakespeare MR 1100-1215pm Kelley S
+EN 0141 B 76368 3 Imagining Shakespeare MR 0200-0315pm Kelley S
+EN 0161 A 75776 3 Irish Literature TF 1100-1215pm Pearson N JUHAN
+EN 0161 B 75777 3 Irish Literature TF 1230-0145pm Pearson N JUHAN
+EN 0163 A 76952 3 Lit of Illness and Healing Online Rinaldi J USDiv
+EN 0172 A 76369 3 Literacy and Language MR 0930-1045am Bowen B ResColl,  USDiv, SerL
+EN 0203 A 76914 3 English Epic TF 0930-1045pm Epstein R
+EN 0215 A 76915 3 Intro to 18th Cent British Lit MR 0500-0615pm OÕDriscoll S
+EN 0231 A 76916 3 Early American Literature MR 0930-1045pm Petrino E
+EN 0282 A 76917 3 Latino/a Literature TF 1100-1215pm Lopez E USDiv
+EN 0292 A 76918 3 Contemporary ChildrenÕs Lit MR 1230-0145pm Bowen B
+EN 0319 A 76919 3 James Joyce W 0200-0430pm Pearson N
+EN 0333 A 75460 3 American Realism & Naturalism W 1100-0130pm Orlando E
+EN 0334 A 76920 3 American Modernism MR 0200-0315pm Bayers P
+EN 0336 A 76921 3 Seminar on Toni Morrison R 0500-0730pm Garvey J USDiv
+ENW 0202 A 75423 3 Creative Writing: Poetry I MR 1100-1215pm Davis C
+ENW 0205 A 75221 3 Creative Writing: Fiction I R 0630-0900pm White M
+ENW 0206 A 75458 3 Creative Writing: Nonfiction I TF 1100-1215pm Hilts E
+ENW 0207B A 76922 3 Themes in CW: Spiritual Works MR 0330-0445pm White M
+ENW 0214 A 76923 3 ProfPresentation:Writ&Delivery W 1100-0130pm Magas J
+ENW 0220 A 75160 3 News Writing MR 0930-1045am Bailey H
+ENW 0220 B 76924 3 News Writing TF 0930-1045am Breunig L
+ENW 0221 A 76379 3 Digital Journalism MR 0930-1045am Xie L
+ENW 0306 A 76925 3 Creative Writing:Nonfiction II W 0200-0430pm Huber S
+ENW 0320 A 75459 3 Writing the Feature Story TF 1230-0145pm Breunig L
+ENW 0332 A 75295 3 Business Writing MR 0200-0315pm Chisum P
+ENW 0332 B 76926 3 Business Writing W 1100-0130pm Chisum P
+ENW 0339 A 75336 3 Grant and Proposal Writing T 0500-0730pm Sobocinski T USDiv, SerL
+ENW 0397 A 75424 3 Journalism Practicum By Arrangement Xie L
+ENW 0398 A 76927 3 Publishing Practicum By Arrangement Davis C
+EV 0301 A 75405 3 Environment Workshop W 1100-0130pm Downie D
+FTM 0010 A 75803 3 Intro Film & TV and Media Arts R 0200-0430pm Scalese M
+FTM 0010 C01 75802 3 Intro Film & TV and Media Arts W 0200-0430pm Scalese M CRNST
+FTM 0103 A 76323 3 World Cinema M 0200-0500pm Lerner D
+FTM 0105B A 76866 3 American Film: Decades - 1960s T 0500-0830pm Davis W
+FTM 0106A A 76867 3 Film Genres: The Western W 0200-0500pm Lerner D
+FTM 0107A A 76868 3 TV Genres: Crime Dramas T 0200-0500pm STAFF
+FTM 0110A A 76869 3 Topics: IntractvMedia&DigiCult R 0200-0430pm Lerner D
+FTM 0120 A 75805 3 Beg Screenwriting for Film &TV T 0200-0500pm Mayzik J
+FTM 0131 A 75807 3 Introduction to Production R 1100-0130pm Mayzik J
+FTM 0132 A 76870 3 Web Design W 1100-1215pm STAFF
+FTM 0205 A 76329 3 SurveyFilmMus: Hearing the Mov MR 1100-1215pm Cooney M
+FTM 0310 A 75808 3 Senior Capstone Seminar I T 1100-0130pm Mayzik J
+FTM 0310 B 76871 3 Senior Capstone Seminar I T 1100-0130pm Scalese M
+FR 0110 A 75352 3 Elementary French I TWF 0800-0850am Erotopoulos Z
+FR 0110 B 75353 3 Elementary French I TF 0930-1020am  W 0900-0950am Erotopoulos Z
+FR 0110 C 75428 3 Elementary French I TF 1230-0120pm  W 0100-0150pm Boyce M
+FR 0110 D 75738 3 Elementary French I TF 0200-0250pm  W 0300-0350pm Boyce M
+FR 0110 E 76888 3 Elementary French I MWR 0500-0550pm STAFF
+FR 0210 A 75354 3 Intermediate French I TWF 1100-1150am Erotopoulos Z
+FR 0210 B 75355 3 Intermediate French I MR 0930-1020am  W 0900-0950am Goldfield J
+FR 0210 C 75356 3 Intermediate French I MWR 0200-0250pm Goldfield J
+FR 0210 D 75357 3 Intermediate French I MR 0330-0420pm  W 0400-0450pm STAFF
+FR 0219 A 76348 3 French Syntax and Expression TF 1230-0145pm Erotopoulos Z
+FR 0302 A 76889 3 Survey of Literature in French MR 1100-1215pm Goldfield J
+GM 0110 A 75366 3 Elementary German I TF 0930-1020am  W 0900-0950am Wilkinson E
+GM 0210 A 75719 3 Intermediate German I TWF 1100-1150am Wilkinson E
+GM 0262 A 76890 3 Survey of German Literature II TF 0800-0915am Wilkinson E
+GR 0111 A 75555 3 Elementary Attic Greek MR 0930-1045am Rosivach V
+GR 0211 A 75556 3 Intermediate Greek Readings II By Arrangement Rosivach V
+HE 0110 A 76350 3 Elementary Hebrew I TR 0200-0315pm STAFF
+HI 0010 C01 75500 3 Origins of Mod Wrld Since 1500 MR 1100-1150am  W 1000-1050am Lawrence A CRNST
+HI 0010 C02 75501 3 Origins of Mod Wrld Since 1500 MR 0930-1020am W 0900-0950am Lawrence A CRNST
+HI 0010 C03 75506 3 Origins of Mod Wrld Since 1500 TF 0800-0915am McFadden D CRNST
+HI 0010 D 75495 3 Origins of Mod Wrld Since 1500 MR 0200-0315pm Bucki C
+HI 0010 E 75496 3 Origins of Mod Wrld Since 1500 TF 0930-1045am Li D ResColl
+HI 0010 F 75497 3 Origins of Mod Wrld Since 1500 MR 1230-0145pm Keegan K
+HI 0010 G 75498 3 Origins of Mod Wrld Since 1500 TF 0200-0250pm  W 0300-0350pm STAFF
+HI 0010 H 75499 3 Origins of Mod Wrld Since 1500 TF 0930-1020am  W 0900-0950am Abbott W
+HI 0010 I 75502 3 Origins of Mod Wrld Since 1500 TWF 1100-1150am Abbott W
+HI 0010 J 75503 3 Origins of Mod Wrld Since 1500 TF 1100-1215pm Marsans-Sakly S
+HI 0010 K 75504 3 Origins of Mod Wrld Since 1500 MR 0930-1020am  W 0900-0950am Behre P
+HI 0010 L 75505 3 Origins of Mod Wrld Since 1500 MR 0930-1045am Palmer L
+HI 0010 M 75705 3 Origins of Mod Wrld Since 1500 T 0600-0830pm Russo C
+HI 0010 N 75794 3 Origins of Mod Wrld Since 1500 M 0630-0900pm Behre P
+HI 0010 O 75795 3 Origins of Mod Wrld Since 1500 MR 0200-0315pm Toler H
+HI 0010 P 75796 3 Origins of Mod Wrld Since 1500 TF 1230-0120pm  W 0100-0150pm STAFF
+HI 0010 Q 75797 3 Origins of Mod Wrld Since 1500 TF 0330-0445pm Russo C
+HI 0010 R 76511 3 Origins of Mod Wrld Since 1500 MR 0330-0445pm Yannielli J
+HI 0010 S 76512 3 Origins of Mod Wrld Since 1500 TF 1100-1215pm Li D ResColl
+HI 0010 T 76514 3 Origins of Mod Wrld Since 1500 TF 1230-0145pm Marsans-Sakly S
+HI 0010 U 76515 3 Origins of Mod Wrld Since 1500 MR 1230-0120pm  W 1200-1250pm Behre P
+HI 0201 A 75798 3 Intro/ Hist of Western Science MR 1100-1215pm Palmer L
+HI 0215 A 76256 3 Ireland,Middle Ages to Present TF 0200-0250pm  W 0300-0350pm Abbott W
+HI 0220 A 76838 3 Ancient African Civilizations MR 0330-0445pm Ruffini G WDiv
+HI 0240 A 76839 3 WomenÕs Activism in the 1960s W 0200-0430pm Hohl E USDiv
+HI 0240 B 76840 3 WomenÕs Activism in the 1960s R 0500-0730pm Hohl E ResColl,  USDiv
+HI 0262 A 75452 3 African-Amer History 1619-1865 TF 0330-0445pm Hohl E USDiv
+HI 0262 B 75507 3 African-Amer History 1619-1865 TF 1230-0145pm Hohl E USDiv
+HI 0272 A 76841 3 Russia 700-1700 History & Myth TF 0200-0315pm McFadden D ResColl, WDiv
+HI 0274 A 75799 3 Historical Persp/ContempGlblCr TF 0930-1045am McFadden D WDiv,  JUHAN
+HI 0279 A 76842 3 China Classical Time to 1800s TF 0330-0445pm Li D WDiv
+HI 0281 A 76843 3 Portrait of the Arabs W 0200-0430pm Marsans-Sakly S WDiv
+HI 0289 A 76844 3 Modern Latin America 1800-Pres MR 1100-1215pm Adair J WDiv
+HI 0289 B 76845 3 Modern Latin America 1800-Pres MR 1230-0145pm Adair J WDiv
+HI 0298 A 76264 3 Historical Geography MR 0200-0315pm Keegan K
+HI 0313 A 76846 3 Godless:Atheism&SkepThghtWest W 0200-0430pm Behre P
+HI 0349 A 76847 3 The 1930s in America R 0500-0730pm Bucki C
+HI 0383 A 76848 3 Food,Consum,Commod in Lat Amer W 1100-0130pm Adair J WDiv
+HI 0391 A 76849 3 The Meanings of History T 0500-0730pm McFadden D
+HR 0100 A 75059 4 Ideas That Shaped the West MR 1100-1215pm  W 1000-1050am Sealey K
+HR 0100 B 75162 4 Ideas That Shaped the West MR 0330-0445pm  W 0400-0450pm Keenan D
+HR 0200 A 75058 3 Challenges to the Western Trad TF 0930-1045am Garvey J USDiv
+HR 0202 A 75179 3 HonorsSem: Genetics,Ethics&Soc MR 0930-1045am Fernandez A
+HR 0202 B 75180 3 Honors Seminar: Digital Age W 0200-0430pm Gil-Egui G
+HR 0202 C 75194 3 Honors Seminar: The Novella MR 1100-1215pm Perkus A
+HR 0202 D 75296 3 HonrSem: Faith After Holocaust TF 1100-1215pm Umansky E
+HR 0300 A 75060 3 Interdisc Inq: UrbanIssues:NYC MR 0200-0315pm Schlichting K
+IL 0050 A 75342 3 People, Places & Global Issues MR 1100-1215pm Jones T WDiv
+IL 0050 B 76775 3 People, Places & Global Issues MR 0200-0315pm Jones T WDiv
+IL 0051 A 75540 3 IntÕl Rels:Theories&Challenges TF 0200-0315pm Leatherman J JUHAN
+IL 0052 A 75343 3 Culture and Political Economy TR 0630-0745pm Crawford D
+IL 0052 B 76346 3 Culture and Political Economy MR 0930-1045am Wilson J
+IL 0053 A 76776 3 Introduction to Economics TF 0930-1045am Franceschi D
+IL 0150 A 75749 3 InternÕl Oper of Non-Profits TF 1230-0145pm Poli P WDiv, Water,  JUHAN,  SerL Opt
+IL 0300 A 75158 3 Senior Capstone Seminar W 1100-0130pm Jones T
+IT 0110 A 75358 3 Elementary Italian I TWF 0800-0850am Diaz S
+IT 0110 B 75359 3 Elementary Italian I MR 0330-0420pm  W 0400-0450pm Eliasoph Y
+IT 0110 C 75360 3 Elementary Italian I MWR 0200-0250pm Eliasoph Y
+IT 0110 D 75361 3 Elementary Italian I MWR 0200-0250pm Carolan M
+IT 0110 E 75485 3 Elementary Italian I TF 0200-0250pm  W 0300-0350pm Diaz S
+IT 0110 F 75760 3 Elementary Italian I MR 1100-1150am  W 1000-1050am Carolan M
+IT 0210 A 75362 3 Intermediate Italian I MWR 0800-0850am Morrissette J
+IT 0210 B 75363 3 Intermediate Italian I MR 0930-1020am  W 0900-0950am Morrissette J
+IT 0210 C 75364 3 Intermediate Italian I TWF 1100-1150am Diaz S
+IT 0210 D 75365 3 Intermediate Italian I TF 0930-1020am  W 0900-0950am Diaz S
+IT 0210 E 75447 3 Intermediate Italian I TF 0330-0420pm  W 0400-0450pm STAFF
+IT 0210 F 75451 3 Intermediate Italian I TWF 0200-0250pm STAFF
+IT 0220 A 76891 3 Topics in Language & Culture MR 1230-0145pm Carolan M
+JA 0110 A 75350 3 Elementary Japanese I MR 0330-0420pm  W 0400-0450pm Avery K
+JA 0210 A 75351 3 Intermediate Japanese I MW 0500-0615pm Avery K
+LA 0111 A 75382 4 Basic Latin MR 1100-1215pm  W 1000-1050am Rosivach V
+LA 0210 A 75383 3 Latin Readings (Comedy) MR 1230-0145pm Rosivach V
+MA 0011 A 75706 3 Precalculus TWF 1100-1150am Cunningham P
+MA 0011 B 75707 3 Precalculus MR 0330-0420pm  W 0400-0450pm Kaminski S
+MA 0011 C 76270 3 Precalculus TF 1230-0120pm  W 0100-0150pm Kar S
+MA 0017 A 75129 3 Intro Probability & Statistics MR 0330-0445pm Fang S
+MA 0017 B 75156 3 Intro Probability & Statistics MR 0930-1045am Romansky T
+MA 0017 C 75157 3 Intro Probability & Statistics MR 1230-0145pm Pfeil J
+MA 0017 D 75427 3 Intro Probability & Statistics TR 0500-0615pm Grant M
+MA 0017 E 75847 3 Intro Probability & Statistics MW 0500-0615pm Parisi R
+MA 0017 F 75985 3 Intro Probability & Statistics TF 0200-0315pm Lalani R
+MA 0017 G 76112 3 Intro Probability & Statistics TF 0330-0445pm Lalani R
+MA 0017 H 76117 3 Intro Probability & Statistics MR 0200-0315pm Romansky T
+MA 0017 I 76504 3 Intro Probability & Statistics MW 0500-0615pm McCammon D
+MA 0019 A 75401 3 Introduction to Calculus TWF 1100-1150am Dennin J
+MA 0019 B 75945 3 Introduction to Calculus TF 0200-0250pm  W 0300-0350pm Ryan D
+MA 0019 C 76269 3 Introduction to Calculus MR 0200-0315pm Rafalski S
+MA 0019 D 76951 3 Introduction to Calculus MW 0500-0615pm Grant M
+MA 0119 A 75850 3 Applied Calculus I TF 0930-1020am  W 0900-0950am Weiss J
+MA 0119 B 75851 3 Applied Calculus I TF 1230-0120pm  W 0100-0150pm Weiss J
+MA 0119 C 75852 3 Applied Calculus I TF 0930-1020am  W 0900-0950am Cunningham P
+MA 0119 D 75853 3 Applied Calculus I MR 0930-1020am  W 0900-0950am Baginski P
+MA 0119 E 75854 3 Applied Calculus I MWR 0200-0250pm Baginski P
+MA 0119 F 75855 3 Applied Calculus I TF 1230-0145pm Pfeil J
+MA 0119 G 75856 3 Applied Calculus I MR 1100-1215pm Pfeil J
+MA 0119 H 75857 3 Applied Calculus I MW 0630-0745pm Carroll L
+MA 0119 I 75858 3 Applied Calculus I TR 0500-0615pm Joannon-Bellows F
+MA 0119 J 75859 3 Applied Calculus I MR 0330-0445pm Shanazu P
+MA 0119 K 75861 3 Applied Calculus I MR 0330-0445pm Franchella M
+MA 0119 L 75885 3 Applied Calculus I MR 0200-0315pm Giegengack E
+MA 0119 M 75910 3 Applied Calculus I TF 0200-0315pm Giegengack E
+MA 0119 N 76104 3 Applied Calculus I MR 0800-0915am Reed M
+MA 0119 O 76105 3 Applied Calculus I TR 0500-0615pm Shanazu P
+MA 0119 P 76829 3 Applied Calculus I TF 1230-0120pm  W 0100-0150pm Cunningham P
+MA 0120 A 75862 3 Applied Calculus II TWF 1100-1150am Staecker C
+MA 0120 B 75863 3 Applied Calculus II TF 0930-1020am  W 0900-0950am Staecker C
+MA 0145 A 75697 4 Calc I: Chem/Engr/Phys Majors TF 1230-0145pm  W 0100-0150pm Ryan D
+MA 0145 B 75698 4 Calc I: Chem/Engr/Phys Majors TF 1100-1215pm  W 1100-1150am Wakin S
+MA 0145 C 76830 4 Calc I: Chem/Engr/Phys Majors MR 1100-1215pm  W 1000-1050am Sawin S
+MA 0151 A 76285 3 Functional Programming TF 1230-0145pm Staecker C
+MA 0171 A 75700 4 Calculus I MR 0200-0315pm  W 0200-0250pm Coleman M
+MA 0171 B 75701 4 Calculus I MR 1230-0145pm  W 1200-1250pm Bernhardt C
+MA 0171 C 75703 4 Calculus I MR 1100-1215pm  W 1000-1050am Rafalski S
+MA 0171 D 76505 4 Calculus I TF 1100-1215pm  W 1100-1150am Pfeil J
+MA 0172 A 75702 4 Calculus II TF 0930-1045am W 0900-0950am McSweeney L
+MA 0217 A 75163 3 Accelerated Statistics MR 0800-0915am Danaher R
+MA 0217 B 75164 3 Accelerated Statistics TF 0800-0915am Danaher R
+MA 0217 C 75177 3 Accelerated Statistics MR 1230-0145pm Fang S
+MA 0217 D 75178 3 Accelerated Statistics MR 0200-0315pm Fang S
+MA 0217 E 75209 3 Accelerated Statistics MR 0800-0915am Cron J
+MA 0217 F 75275 3 Accelerated Statistics MR 0930-1045am Cron J
+MA 0217 G 75911 3 Accelerated Statistics MR 0330-0445pm Manning C
+MA 0217 H 76271 3 Accelerated Statistics TR 0500-0615pm Manning C
+MA 0217 I 76454 3 Accelerated Statistics MR 0930-1020am  W 0900-0950am Sawin S
+MA 0221 A 76272 3 Applied Calculus III MWR 0200-0250pm Bernhardt C
+MA 0231 A 75149 3 Discrete Mathematics MR 1100-1150am  W 1000-1050am Baginski P
+MA 0231 B 75864 3 Discrete Mathematics TF 0200-0250pm  W 0300-0350pm Striuli J
+MA 0245 A 75845 4 Calc III: Chem/Engr/Phys Majrs TF 0930-1045am  W 0900-0950am Wakin S
+MA 0245 B 75846 4 Calc III: Chem/Engr/Phys Majrs MR 0800-0915am  W 0800-0850am Fine B
+MA 0251 A 76831 3 Ordinary Differentl Equations MR 1100-1215pm Fine B
+MA 0273 A 75708 4 Multivariable Calculus TF 1100-1215pm  W 1100-1150am Striuli J
+MA 0331 A 75235 3 Applied Mathematics MR 0200-0315pm Demers M
+MA 0334 A 75037 3 Abstract Algebra TF 0200-0250pm  W 0300-0350pm Dennin J
+MA 0334 B 76832 3 Abstract Algebra TF 1230-0120pm  W 0100-0150pm Striuli J
+MA 0351 A 75038 3 Probability Theory MR 0930-1020am  W 0900-0950am Fine B
+MA 0371 A 75131 3 Real Analysis MR 1230-0120pm  W 0100-0150pm Sawin S
+MA 0383 A 76833 3 Modern Geometry MW 0500-0615pm Rafalski S
+MA 0390 A 76286 3 Honors Seminar I MR 0330-0445pm Bernhardt C By Permission
+MU 0104 A 75283 3 History of Music: 1700-1964 TF 1230-0145pm Murchie A
+MU 0104 B 75329 3 History of Music: 1700-1964 MR 1230-0145pm Ciavaglia M
+MU 0104 C 76436 3 History of Music: 1700-1964 MR 1100-1215pm Ciavaglia M ResColl
+MU 0113 A 75561 3 Intro to Piano Keyboard&EleMus MR 1230-0145pm Cooney M
+MU 0120 C01 75810 3 The History of American Song TF 0930-1045am Nash L CRNST
+MU 0150 A 75154 3 Music Theory & Composition I TWF 1100-1150am Nash L
+MU 0156 A 75811 3 Intro to Music Tech:Hist &Prac TF 1230-0145pm Cooney M
+MU 0157 A 75155 3 Intro to the Music Industry R 0700-0930pm Rabin S
+MU 0200B A 76872 3 Special Topics: Beethoven TF 1100-1215pm Murchie A
+MU 0200C A 76873 3 Topics: Hip Hop & Antecedents MR 1100-1215pm Nash L
+MU 0245 A 76330 3 FilmSurvey: Hearing the Movies TF 1100-1215pm Cooney M
+MU 0255 A 75075 1 University Symphony Orchestra M 0730-0900pm Grauer J
+MU 0256 A 75076 1 Jazz Ensemble T 0500-0630pm Fumasoli J
+MU 0310 A 75331 3 Senior Capstone Project By Arrangement Nash L
+MU 0311 A 76874 3 Senior Capstone Proj: Theory By Arrangement Nash L
+MU 0363 A 76875 3 Music Tech for Music Educators By Arrangement STAFF
+PH 0101 C01 75512 3 Introduction to Philosophy TF 1230-0145pm Brill S CRNST
+PH 0101 C02 75513 3 Introduction to Philosophy TF 0200-0315pm Brill S CRNST
+PH 0101 C03 75516 3 Introduction to Philosophy MR 1100-1215pm DeWitt W CRNST
+PH 0101 D 75508 3 Introduction to Philosophy MR 1230-0145pm DeWitt W
+PH 0101 E 75509 3 Introduction to Philosophy MR 1230-0145pm Drake R
+PH 0101 F 75510 3 Introduction to Philosophy MR 0200-0315pm Drake R
+PH 0101 G 75511 3 Introduction to Philosophy MR 0930-1045am Keenan D
+PH 0101 H 75514 3 Introduction to Philosophy MR 1100-1215pm Keenan D ResColl
+PH 0101 I 75515 3 Introduction to Philosophy TF 1100-1215pm Labinski M
+PH 0101 J 75517 3 Introduction to Philosophy TF 1230-0145pm Labinski M
+PH 0101 K 75518 3 Introduction to Philosophy MR 0930-1045am Peduti D
+PH 0101 L 75520 3 Introduction to Philosophy MR 1230-0145pm Sealey K
+PH 0101 M 75521 3 Introduction to Philosophy MR 0200-0315pm Sealey K
+PH 0101 N 75522 3 Introduction to Philosophy MW 0500-0615pm Alcorn J
+PH 0101 O 75523 3 Introduction to Philosophy MW 0630-0745pm Alcorn J
+PH 0101 P 75524 3 Introduction to Philosophy TF 0200-0315pm Smith J
+PH 0101 Q 75576 3 Introduction to Philosophy TF 0330-0445pm Smith J
+PH 0101 R 75731 3 Introduction to Philosophy TR 0500-0615pm Smith J
+PH 0101 S 75735 3 Introduction to Philosophy MR 0200-0315pm STAFF
+PH 0101 T 75736 3 Introduction to Philosophy MR 0330-0445pm STAFF
+PH 0101 U 75741 3 Introduction to Philosophy TR 0500-0615pm STAFF
+PH 0101 V 75879 3 Introduction to Philosophy TR 0630-0745pm STAFF
+PH 0200 A 75525 3 Ancient Philosophy TF 0930-1045am Jacob D
+PH 0200 B 75526 3 Ancient Philosophy TF 1100-1215pm Jacob D
+PH 0202 A 75527 3 Modern Philosophy MR 0330-0445pm Bayne S
+PH 0202 B 75528 3 Modern Philosophy MR 1100-1215pm Bayne S
+PH 0204 A 76777 3 20th Century Philosophy TF 0200-0315pm Lew G
+PH 0204 B 76778 3 20th Century Philosophy TF 1230-0145pm Lew G
+PH 0205 A 76779 3 Anicent Medicine & Philosophy TF 1100-1215pm Brill S
+PH 0209 A 75529 3 Existentialism MR 0330-0445pm Peduti D ResColl
+PH 0209 B 75530 3 Existentialism MR 0200-0315pm Peduti D
+PH 0209 C 75531 3 Existentialism TR 0500-0615pm Stambovsky P
+PH 0209 D 75767 3 Existentialism TR 0630-0745pm Stambovsky P
+PH 0212 A 76780 3 Critical Theory MR 1100-1215pm Drake R
+PH 0217 A 75867 3 Logic MR 0930-1045am DeWitt W
+PH 0240 A 75768 3 Intro to Asian Philosophies TF 0200-0315pm Rodrigues U WDiv
+PH 0240 B 75769 3 Intro to Asian Philosophies TF 0330-0445pm Rodrigues U WDiv
+PH 0250 A 75532 3 Ethical Theory TF 1230-0145pm Svoboda T
+PH 0250 B 75533 3 Ethical Theory TF 0200-0315pm Svoboda T
+PH 0260 A 75535 3 Social & Political Philosophy TF 1100-1215pm Fernandez J
+PH 0260 B 75536 3 Social & Political Philosophy TF 0200-0315pm Fernandez J
+PH 0260 C 75537 3 Social & Political Philosophy TF 1230-0145pm STAFF
+PH 0260 D 76281 3 Social & Political Philosophy TF 0330-0445pm STAFF
+PH 0281 A 76803 3 Philosophies of Love and Sex TF 0330-0445pm Labinski M
+PH 0311 A 76781 3 Kant MR 0200-0315pm Bayne S
+PH 0350 A 76804 3 Advanced Topics in Ethics T 0500-0730pm Svoboda T
+PS 0015 A 75039 3 General Physics I (Ch/Eng) TF 1100-1210pm  W 1100-1150am Biselli A
+PS 0015 B 75072 3 General Physics I (Ch/Eng) TF 1230-0140pm  W 0100-0150pm Xu M
+PS 0015 C 75073 3 General Physics I (Ch/Eng) TF 0200-0315pm  W 0300-0350pm Wojna R
+PS 0015 D 75151 3 General Physics I TR 0500-0615pm Dlugos D
+PS 0015 E 75210 3 General Physics I MR 0930-1040am  W 0900-0950am STAFF
+PS 0015 F 75763 3 General Physics I MR 0930-1040am  W 0900-0950am Winn D
+PS 0015 G 76806 3 General Physics I MR 1100-1210pm  W 1000-1050am Das B
+PS 0015L A 75605 1 General Physics I Lab M 0200-0430pm Winn D
+PS 0015L B 75607 1 General Physics I Lab T 0200-0430pm Xu M
+PS 0015L C 75608 1 General Physics I Lab W 0200-0430pm Das B
+PS 0015L D 75610 1 General Physics I Lab W 0600-0830pm Zeylikovich I
+PS 0015L E 75611 1 General Physics I Lab F 0315-0545pm Kuhn J
+PS 0015L F 75612 1 General Physics I Lab R 0200-0430pm Cavallo J
+PS 0015L G 75613 1 General Physics I Lab R 0616-0845pm Zeylikovich I
+PS 0071 A 75430 3 Physics of Light and Color MR 1230-0140pm Das B
+PS 0078 01 76807 3 The Nature of the Universe Online Kuhn J
+PS 0078 A 75128 3 The Nature of the Universe MR 1230-0145pm Norvell B
+PS 0078 B 75315 3 The Nature of the Universe MR 0200-0315pm Norvell B
+PS 0087 01 76808 3 Fundamentals of Astronomy Online Heiden D
+PS 0093 A 76809 3 Energy and Environment MR 1230-0145pm Winn D
+PS 0212 A 75399 3 Circuit Analy & Analog Syst TF 1100-1215pm Balaji U
+PS 0212 B 75764 3 Circuit Analy & Analog Syst M 0630-0900pm STAFF
+PS 0212L A 75614 1 Circuit Analy&AnalogSys Lab T 0630-0830pm Cavallo J
+PS 0212L B 75765 1 Circuit Analy&AnalogSys Lab W 1100-0130pm Denenberg J
+PS 0226 A 76810 3 Classical Mechanics TF 0200-0315pm Biselli A
+PS 0271 A 75400 3 Electricity & Magnetism I TF 0930-1045am Xu M
+PS 0285 A 75040 3 Modern Physics TF 1230-0145pm Biselli A
+PS 0386 A 75071 4 Quantum Mechanics MR 0330-0445pm Das B
+PO 0011 A 75041 3 Intro to American Politics MR 1100-1215pm Alphonso G
+PO 0011 B 75429 3 Intro to American Politics TR 0500-0615pm STAFF
+PO 0011 C01 75227 3 Intro to American Politics MR 0930-1045am Alphonso G CRNST
+PO 0012 A 75042 3 Intro to Comparative Politics TF 1230-0145pm Patton M WDiv
+PO 0012 C01 75542 3 Intro to Comparative Politics TF 0200-0315pm Patton M CRNST,  Wdiv
+PO 0014 A 75043 3 Intro to Political Theory MR 0200-0315pm Cassidy K
+PO 0014 B 75541 3 Intro to Political Theory MR 0330-0445pm Cassidy K
+PO 0115 A 75126 3 Intro to Study of Peace & Just MR 0930-1045am Cassidy K
+PO 0116 A 76357 3 Utopian Politics MR 1100-1215pm Boryczka J
+PO 0119 A 75751 3 Sex, Sexuality and Gender MR 1230-0145pm Boryczka J USDiv
+PO 0129 A 76855 3 Politics / Humanitarian Action TF 1100-1215pm Leatherman J ResColl, WDiv, SerL, JUHAN
+PO 0130 A 75539 3 IntÕl Rels:Theories&Challenges TF 0200-0315pm Leatherman J JUHAN
+PO 0131 A 76856 3 IntÕl Enviromental Policy TF 0930-1045am Downie D
+PO 0132 A 76355 3 Climate Change:Pol & Policy TF 0200-0315pm Downie D
+PO 0139 A 76859 3 European Politics MW 0500-0615pm STAFF
+PO 0144 A 75865 3 Middle Eastern Politics TF 0930-1045am Patton M WDiv
+PO 0162 A 76857 3 United States Congress MR 1230-0145pm Alphonso G
+PO 0163 A 75044 3 Supreme Court I TR 0500-0615pm STAFF
+PO 0167 A 76887 3 Media and Politics W 1100-0130pm STAFF
+PG 0110 A 75345 3 Elem Brazilian Portuguese MR 0330-0420pm  W 0400-0450pm STAFF
+PG 0210 A 75470 3 Interm Brazilian Portuguese I TF 1230-0120pm  W 0100-0150pm STAFF
+PY 0101 A 75045 3 General Psychology MR 0930-1045am STAFF
+PY 0101 B 75046 3 General Psychology TF 0330-0445pm Claydon J
+PY 0101 C01 75175 3 General Psychology MR 1230-0145pm Andreychik M CRNST
+PY 0101 C02 76700 3 General Psychology MR 1100-1150am  W 1000-1050am Rakowitz S CRNST
+PY 0101 D 75317 3 General Psychology TR 0630-0745pm Amico M
+PY 0111 A 76071 3 Dev Psychology for Non-Majors TR 0500-0615pm Amico M
+PY 0111 B 76291 3 Dev Psychology for Non-Majors TR 0630-0745pm Creane M
+PY 0122 A 76070 3 Psychology and the Law TF 1230-0145pm Braginsky D
+PY 0201 A 76072 4 Statistics for Life Sciences MR 1230-0120pm Salafia W
+PY 0201 A 76072 4 Statistics for Life Sciences W 1200-1250pm Salafia W
+PY 0201 B 76077 4 Statistics for Life Sciences MR 1100-1150am W 1000-1050am Henkel L
+PY 0201 C 76701 4 Statistics for Life Sciences MWR 0200-0250pm Salafia W
+PY 0201L A1 76073 0 Statistics Lab for Section A T 1000-1200pm Salafia W
+PY 0201L A2 76074 0 Statistics Lab for Section A T 1200-0200pm Salafia W
+PY 0201L B1 76075 0 Statistics Lab for Section B W 1130-0130pm Henkel L
+PY 0201L B2 76076 0 Statistics Lab for Section B W 0200-0400pm Henkel L
+PY 0201L C1 76702 0 Statistics Lab for Section C T 0200-0400pm Salafia W
+PY 0201L C2 76703 0 Statistics Lab for Section C T 0400-0600pm Salafia W
+PY 0202 A 76079 4 Research Methods in Psychology TF 0200-0340pm Fichtenholtz H
+PY 0202 B 76292 4 Research Methods in Psychology MR 0900-1040am Andreychik M
+PY 0202 C 76704 4 Research Methods in Psychology TF 0900-1040am McClure M
+PY 0211 A 76293 3 Developt Psychology for Majors MR 0200-0315pm Rakowitz S
+PY 0211 B 76705 3 Developt Psychology for Majors TF 0330-0445pm Creane M
+PY 0212 A 76083 4 Dev Psych for Majors with Lab TF 0930-1215pm Primavera J USDiv, SerL
+PY 0221 A 76080 3 Social Psychology MR 0200-0315pm Andreychik M
+PY 0231 A 76082 3 Abnormal Psychology for Majors TF 1100-1215pm McClure M
+PY 0232 A 76097 3 Theories of Personality TR 0500-0615pm Creane M
+PY 0236 A 76294 3 Human Neuropsychology TF 1230-0145pm McClure M
+PY 0251 A 75049 3 Cognitive Psychology MR 1230-0145pm Henkel L
+PY 0261 A 75048 3 Biological Bases of Behavior MR 0930-1045am Salafia W
+PY 0261 B 75220 3 Biological Bases of Behavior TF 0200-0315pm Harding S
+PY 0262 A 76081 3 Sensation and Perception MR 0800-0915am STAFF
+PY 0272 A 76706 3 Hormones and Behavior TF 0930-1045am Harding S
+PY 0295 A 76707 3 Supervised Research W 0630-0900pm Harding S
+PY 0322 A 76296 3 Health Psychology Sr Seminar W 0200-0430pm Braginsky D
+PY 0331 A 76103 3 Abnormal Child Psyc Sr Seminar W 1100-0130pm Primavera J
+PY 0351 A 76708 3 False Memories Senior Seminar MR 0330-0445pm Henkel L
+PY 0391 A 76740 3 Internship in Applied Psych W 0500-0615pm Braginsky D
+PY 0395 A 76741 3 Independent Research W 0630-0900pm Harding S
+RS 0101A A 76058 3 ER: Religion & Critical Mind MR 0800-0915am Dallavalle N ResColl
+RS 0101A B 76428 3 ER: Religion & Critical Mind MR 0200-0315pm Ciollo L
+RS 0101A C01 76059 3 ER: Religion & Critical Mind MR 0930-1045am Dallavalle N CRNST
+RS 0101A D 76429 3 ER: Religion & Critical Mind TF 0200-0315pm Moore S
+RS 0101A E 76975 3 ER: Religion & Critical Mind TF 1230-0145pm Moore S
+RS 0101C A 75562 3 ER:CommonQuestionsTradResponse MWR 0800-0850am Slotemaker J
+RS 0101C B 75563 3 ER:CommonQuestionsTradResponse MR 1100-1150am W 1000-1050am Slotemaker J ResColl
+RS 0101C C 75564 3 ER:CommonQuestionsTradResponse MR 0800-0915am Nguyen M
+RS 0101C D 75724 3 ER:CommonQuestionsTradResponse MR 1100-1215pm Nguyen M
+RS 0101C E 75780 3 ER:CommonQuestionsTradResponse MR 0500-0615pm Cosacchi D
+RS 0101C F 75881 3 ER:CommonQuestionsTradResponse MR 0630-0745pm Cosacchi D
+RS 0101C G 76306 3 ER:CommonQuestionsTradResponse TR 0500-0615pm Ross S
+RS 0101C H 76307 3 ER:CommonQuestionsTradResponse TR 0630-0745pm Ross S
+RS 0101D A 75565 3 ER:Religion in Comparative Key MR 0930-1020am  W 0900-0950am Thiel J
+RS 0101D B 75566 3 ER:Religion in Comparative Key MR 1230-0120pm  W 1200-1250pm Thiel J
+RS 0101D C 76127 3 ER:Religion in Comparative Key MWR 0200-0250pm Thiel J
+RS 0101D D 76308 3 ER:Religion in Comparative Key TR 0500-0615pm Ranstrom E
+RS 0101D E 76309 3 ER:Religion in Comparative Key TR 0630-0745pm Ranstrom E
+RS 0101E A 75567 3 ER: Peo of the Book,SacredTxts TF 0930-1045am Humphrey H
+RS 0101E B 75568 3 ER: Peo of the Book,SacredTxts TF 1100-1245pm Gaines J
+RS 0101E C 76976 3 ER: Peo of the Book,SacredTxts TF 1230-0145pm Gaines J
+RS 0209 A 75571 3 Jewish Interpret of Scripture MR 0330-0445pm Prosnit J
+RS 0210 A 75572 3 Introduction to Judaism TF 0930-1020am  W 0900-0950am Umansky E
+RS 0222 A 76811 3 Writings of John TF 1230-0145pm Humphrey H
+RS 0222 B 76812 3 Writings of John TF 0200-0315pm Humphrey H
+RS 0230 A 75781 3 Introduction to Catholicism TF 0930-1045am Thiel J
+RS 0240 A 76813 3 The Medieval Church MR 1230-0145pm Slotemaker J
+RS 0244 A 75723 3 Finding God in All Things TR 0500-0615pm Bowler J
+RS 0245 A 76814 3 The Reformation Era MW 0330-0445pm Spollett D
+RS 0249 A 76815 3 American Catholic Theologians TF 0200-0315pm Lakeland P
+RS 0255 A 76816 3 Catholic Social Teaching TF 1230-0145pm Lakeland P
+RS 0257 A 76316 3 Christian Spirituality MR 0330-0445pm Sauers E
+RS 0263 A 76817 3 New Religious Mvments in Amer MR 0930-1045am Ciollo L
+RS 0263 B 76818 3 New Religious Mvments in Amer MR 1100-1215pm Ciollo L
+RS 0289 A 76819 3 Tantrism MR 0200-0315pm Davidson R WDiv
+RS 0379 A 76820 3 Islam, Race, Power MR 1230-0145pm Nguyen M
+RU 0110 A 75346 3 Elementary Russian I MR 0930-1020am  W 0900-0950am Syssoeva E
+RU 0210 A 75347 3 Intermediate Russian I MR 1100-1150am  W 1000-1050am Syssoeva E
+SO 0011 A 75050 3 Introduction to Sociology TF 1230-0145pm Quartey B
+SO 0011 B 75150 3 Introduction to Sociology TF 1100-1215pm Quartey B
+SO 0011 C 75754 3 Introduction to Sociology W 0630-0900pm Rodrigues R
+SO 0011 D 76510 3 Introduction to Sociology MW 0500-0615pm Mielants E
+SO 0112 A 76755 3 American Society MR 1230-0120pm W 1200-1250pm Schlichting K USDiv,  SerL Opt
+SO 0161 A 75755 3 American Class Structure MR 0930-1020am  W 0900-0950am Rodrigues R USDiv
+SO 0162 A 75455 3 Race,Gender & Ethnic Relations TF 0330-0445pm STAFF USDiv
+SO 0162 B 75538 3 Race,Gender & Ethnic Relations TF 0200-0315pm STAFF USDiv
+SO 0171 A 75431 3 Criminology MR 1100-1150am  W 1000-1050am Rodrigues R
+SO 0179 A 75841 3 Death Penalty in America MR 0200-0315pm Rodrigues R
+SO 0192 A 75230 3 Social Work: An Introduction W 1100-0130pm Oliver K
+SO 0221 A 76757 4 Stats: Soc & Pol Data Analysis MR 1100-1215pm Schlichting K
+SO 0228 A 75476 3 Classical Social Theory MW 0630-0745pm Mielants E
+SO 0229 A 75477 3 Contemporary Social Theory MW 0800-0915pm Mielants E
+SO 0398 A 76445 3 Field Work Placement By Arrangement Rodrigues R
+SP 0110 A 75367 3 Elementary Spanish I MWR 0200-0250pm Harshfield L
+SP 0110 B 75368 3 Elementary Spanish I MR 0330-0420pm  W 0400-0450pm Harshfield L
+SP 0110 C 75369 3 Elementary Spanish I MWR 0530-0620pm Poulos C
+SP 0110 D 75370 3 Elementary Spanish I MWR 0430-0520pm Poulos C
+SP 0110 E 76518 3 Elementary Spanish I MR 0930-1020am  W 0900-0950am Mirza G
+SP 0110 F 76519 3 Elementary Spanish I MWR 0800-0850am Mirza G
+SP 0111 A 76892 3 Elementary Spanish II MR 0330-0420pm  W 0400-0450pm Zuniga A
+SP 0111 B 76893 3 Elementary Spanish II MWR 0200-0250pm Zuniga A
+SP 0111 C 76894 3 Elementary Spanish II TF 0330-0420pm  W 0400-0450pm DeLuca A
+SP 0111 D 76895 3 Elementary Spanish II TF 1230-0120pm  W 0100-0150pm Hernandez I
+SP 0111 E 76896 3 Elementary Spanish II TWF 1100-1150am Hernandez I
+SP 0111 F 76897 3 Elementary Spanish II TWF 1100-1150am Lomask L
+SP 0111 G 76898 3 Elementary Spanish II TF 1230-0120pm  W 0100-0150pm Lomask L
+SP 0111 H 76899 3 Elementary Spanish II MR 1230-0120pm  W 0100-0150pm Arango-Martin M
+SP 0111 I 76900 3 Elementary Spanish II MWR 0400-0450pm Vincent M
+SP 0111 J 76901 3 Elementary Spanish II MWR 0500-0550pm Vincent M
+SP 0111 K 76902 3 Elementary Spanish II TWF 0800-0850am Morabito P
+SP 0111 L 76903 3 Elementary Spanish II TF 0930-1020am  W 0900-0950am Morabito P
+SP 0210 A 75372 3 Intermediate Spanish I MR 0930-1020am  W 0900-0950am Sarria M
+SP 0210 B 75373 3 Intermediate Spanish I MR 1100-1150am  W 1000-1050am Sarria M
+SP 0210 C 75374 3 Intermediate Spanish I TF 1230-0120pm  W 0100-0150pm Farrell M
+SP 0210 D 75375 3 Intermediate Spanish I TF 0200-0250pm  W 0300-0350pm Hernandez I
+SP 0210 E 75376 3 Intermediate Spanish I TF 0330-0420pm  W 0400-0450pm Hernandez I
+SP 0210 F 75377 3 Intermediate Spanish I MWR 0500-0550pm Brea X
+SP 0210 G 75378 3 Intermediate Spanish I MWR 0200-0250pm Arango-Martin M
+SP 0210 H 75379 3 Intermediate Spanish I MWR 0200-0250pm Pavon G
+SP 0210 I 75380 3 Intermediate Spanish I MR 1230-0120pm  W 1200-1250pm Pavon G
+SP 0210 J 75722 3 Intermediate Spanish I TF 0330-0420pm  W 0400-0450pm Lomask L
+SP 0210 K 75761 3 Intermediate Spanish I TF 0200-0250pm  W 0300-0350pm Lomask L
+SP 0210 L 75896 3 Intermediate Spanish I MR 1230-0120pm W 1200-1250pm Morriberon N
+SP 0210 M 76113 3 Intermediate Spanish I MWR 0200-0250pm Morriberon N
+SP 0210 N 76455 3 Intermediate Spanish I MR 1230-0120pm  W 0100-0150pm Campos J
+SP 0210 O 76502 3 Intermediate Spanish I MWR 0400-0450pm Brea X
+SP 0210 P 76503 3 Intermediate Spanish I TWR 0500-0550pm Zabala K
+SP 0210 Q 76984 3 Intermediate Spanish I MR 0330-0420pm  W 0400-0450pm Arango-Martin M
+SP 0220 A 75655 3 Topics in Language and Culture TF 0200-0315pm Farrell M
+SP 0220 B 75657 3 Topics in Language and Culture MR 0200-0315pm Campos J
+SP 0231B A 76904 3 Career Spanish for Business MR 0330-0445pm Adrada Rafael S
+SP 0231N A 76905 3 Career Spanish for Nursing/Health Studies TF 0330-0445pm Farrell M
+SP 0245 A 76906 3 Analysis/Inter of Hispanic Lit MR 1100-1215pm Arango-Martin M
+SP 0251 A 76352 3 Spanish Civilization & Culture TF 0930-1045am Johnson J
+SP 0285 A 76907 3 Intro to Spanish Linguistics MR 0200-0315pm Adrada Rafael S
+SP 0346 A 76908 3 Mem,Amnes,Engagmnt/SpanTheatre TF 1100-1215pm Johnson J
+SP 0360 A 76909 3 Dictator,RevMvts/ContempLatAmr MR 0330-0445pm Campos J WDiv
+SA 0011 A 75171 3 Foundation Sculp: Specific Obj M 0930-1200pm Donovan M
+SA 0012 A 75305 3 Foundation: Drawing-Water and Fluidity W 0200-0430pm Yarrington K Water
+SA 0012 B 75332 3 Foundation: Drawing-Water and Fluidity R 0930-1200pm Ford K Water
+SA 0013 A 75434 3 Foundation:Figure Drawing W 1100-0130pm Chamlin-Richer S
+SA 0100 A 76876 3 Experiments in Drawing T 0200-0430pm Mendelsohn J
+SA 0105 A 75433 3 Color Workshop T 1100-0130pm Mendelsohn J
+SA 0130 A 75172 3 Painting I T 1100-0130pm Chamlin-Richer S
+SA 0130 B 75453 3 Painting I T 0200-0430pm Chamlin-Richer S
+SA 0131 A 75560 3 Printmaking: Exploring Water W 1100-0130pm Yarrington K Water
+SA 0132 A 75173 3 Sculpture I: Const Space & Env M 0200-0430pm Donovan M
+SA 0133 A 75843 3 Photo I: Alternative Processes M 1100-0130pm Post J
+SA 0134 A 76333 3 Digital Photography:Imag Water F 1000-1230pm Edwards C Water
+TA 0011 A 75309 3 Introduction to Theatre TF 0930-1045am Learson J
+TA 0030 A 75169 3 Acting I MR 0330-0445pm Mason J
+TA 0094 A 76877 1 TF Performance Practicum By Arrangement STAFF
+TA 0094 B 76878 1 TF Performance Practicum By Arrangement STAFF
+TA 0094 C 76879 1 TF Performance Workshop F 0500-0800pm LoMonaco M
+TA 0095 A 76880 1 TF Production Practicum By Arrangement STAFF
+TA 0095 B 76881 1 TF Production Practicum By Arrangement STAFF
+TA 0110 A 76882 3 World Theatre: Beginnings-1800 MR 1230-0120pm  W 1200-1250pm LoMonaco M ResColl,  JUHAN
+TA 0123 A 76973 3 American Women Playwrights MWR 0200-0250pm LoMonaco M
+TA 0135 A 75139 3 Modern & Contemporary Dance F 0200-0430pm Roth B
+TA 0150 A 76344 3 Stagecraft MR 0930-1045am Jenkins J
+TA 0155 A 75454 3 Design I TF 1230-0145pm Learson J
+TA 0158 A 76884 3 Scene Painting T 0200-0430pm Porter L
+TA 0230 A 76885 3 Acting II MR 1100-1215pm Schwans T
+TA 0310 A 76886 3 Capstone: Theory of Production TF 1100-1215pm Porter L
+AC 0011 C01 75222 3 Intro to Financial Accounting MR 0200-0315pm Bloch R CRNST
+AC 0011 C02 75240 3 Intro to Financial Accounting MR 0330-0445pm Bloch R CRNST
+AC 0011 C03 75241 3 Intro to Financial Accounting TF 0200-0315pm Coyne M CRNST
+AC 0011 C04 75243 3 Intro to Financial Accounting TF 0800-0915am Coyne M CRNST
+AC 0011 C05 75244 3 Intro to Financial Accounting TF 0930-1045am Coyne M CRNST
+AC 0011 F 75242 3 Intro to Financial Accounting MR 0930-1045am Caster P
+AC 0011 G 75461 3 Intro to Financial Accounting TF 1230-0145pm Drusbosky J
+AC 0011 H 75469 3 Intro to Financial Accounting TF 0200-0315pm Drusbosky J
+AC 0011 I 75484 3 Intro to Financial Accounting TF 0330-0445pm Drusbosky J
+AC 0011 J 75729 3 Intro to Financial Accounting TF 1100-1215pm Kardos A
+AC 0011 K 76101 3 Intro to Financial Accounting TF 1230-0145pm Kardos A
+AC 0011 L 76102 3 Intro to Financial Accounting MW 0500-0615pm Brenner S
+AC 0011 M 76689 3 Intro to Financial Accounting MW 0630-0745pm Brenner S
+AC 0011 N 76690 3 Intro to Financial Accounting MR 1100-1215pm Ebrahim A
+AC 0011 O 76691 3 Intro to Financial Accounting MR 0800-0915am STAFF
+AC 0011 P 76692 3 Intro to Financial Accounting MR 0930-1045am STAFF
+AC 0011 Q 76693 3 Intro to Financial Accounting MR 1230-0145pm STAFF
+AC 0011 R 76694 3 Intro to Financial Accounting TR Online STAFF
+AC 0011 S 76695 3 Intro to Financial Accounting TR 0630-0745pm STAFF
+AC 0012 A 75189 3 Intro to Management Accounting MR 0200-0315pm Lee J
+AC 0012 B 76696 3 Intro to Management Accounting TR 0500-0615pm STAFF
+AC 0203 A 75051 3 Intermediate Accounting I TF 0930-1045am Peck M
+AC 0203 B 75052 3 Intermediate Accounting I TF 1100-1215pm Peck M
+AC 0203 C 76463 3 Intermediate Accounting I TF 0200-0315pm Peck M
+AC 0203 D 76464 3 Intermediate Accounting I MR 1100-1215pm Bloch R
+AC 0204 A 75316 3 Intermediate Accounting II M 0630-0900pm Yost S
+AC 0310 A 75557 3 Advanced Accounting TF 0800-0915am Poli P Water
+AC 0310 B 76698 3 Advanced Accounting TF 0930-1045am Poli P Water
+AC 0320 A 75558 3 Cost Management T 0630-0900pm Ebrahim A
+AC 0320 B 75196 3 Cost Management MR 1230-0145pm Ebrahim A
+AC 0330 A 75181 3 Auditing MR 0200-0315pm Caster P
+AC 0330 B 75789 3 Auditing MR 0330-0445pm Caster P
+AC 0343 A 75053 3 Federal Income Taxation I MR 0330-0445pm Mettler K
+AC 0343 B 75467 3 Federal Income Taxation I R 0630-0900pm Spiro M
+BU 0211 A 75223 3 Legal Environment of Business W 0200-0430pm McEvoy S
+BU 0211 B 75290 3 Legal Environment of Business W 0630-0900pm McEvoy S
+BU 0211 C 75474 3 Legal Environment of Business TF 1230-0145pm Hillgen-Santa J
+BU 0211 D 75886 3 Legal Environment of Business MR 1100-1215pm Strauss D
+BU 0211 E 76390 3 Legal Environment of Business MR 1230-0145pm Strauss D
+BU 0320 A 75224 3 EmployLaw&DiscrimWorkPlace T 0630-0900pm McEvoy S USDiv
+FI 0101 A 75270 3 Intro to Finance MR 0930-1045am Hlawitschka W
+FI 0101 B 75271 3 Intro to Finance MR 1100-1215pm Hlawitschka W
+FI 0101 C 75272 3 Intro to Finance TF 0330-0445pm Jenkins J
+FI 0101 D 75273 3 Intro to Finance TF 1100-1216pm McDonald M
+FI 0101 E 75274 3 Intro to Finance TF 0200-0315pm McDonald M
+FI 0101 F 75298 3 Intro to Finance TF 0930-1045am Richardson L
+FI 0101 G 75727 3 Intro to Finance TF 1230-0145pm Richardson L
+FI 0101 H 75790 3 Intro to Finance MR 0330-0445pm Harrity R
+FI 0101 I 76851 3 Intro to Finance MR 0200-0315pm Martinez V
+FI 0200 A 75337 3 Global Capital Markets MR 1100-1215pm Looby R
+FI 0210 A 75054 3 Principles of Investment TF 0930-1045am Zhang Y
+FI 0210 B 75055 3 Principles of Investment TF 1100-1215pm Zhang Y
+FI 0210 C 76386 3 Principles of Investment R 0630-0900pm STAFF
+FI 0210 D 76433 3 Principles of Investment M 0630-0900pm Parisi R
+FI 0215 A 75056 3 Financial Management MR 1230-0145pm Alan N
+FI 0215 B 75132 3 Financial Management MR 0200-0315pm Alan N
+FI 0215 C 75302 3 Financial Management MR 0330-0445pm Bardos K
+FI 0240 A 75385 3 International Finance MR 0930-1045am Martinez V
+FI 0240 B 76852 3 International Finance MR 1230-0145pm Martinez V
+FI 0315 A 75256 3 Futures and Options Markets W 0630-0900pm Koutmos G
+FI 0315 B 75791 3 Futures and Options Markets W 1100-0130pm Koutmos G
+FI 0320 A 76853 3 Financial Modeling MR 1230-0145pm McDermott J
+FI 0320 B 76854 3 Financial Modeling TF 0200-0315pm McDermott J
+FI 0325 A 76393 3 Seminar in Real Estate MR 1230-0145pm Bardos K
+FI 0325 B 76394 3 Seminar in Real Estate MR 0200-0315pm Bardos K
+FI 0398 A 75438 3 Fin Trading & Strategic Simula M 0600-0900pm Hlawitschka W
+IS 0100 A 75197 3 Intro to Information Systems TF 0930-1045am Ozcelik Y
+IS 0100 B 75198 3 Intro to Information Systems TF 1230-0145pm Ozcelik Y
+IS 0100 C 75199 3 Intro to Information Systems MR 0930-1045am Tao J
+IS 0100 D 75200 3 Intro to Information Systems MR 1230-0145pm Tao J
+IS 0100 E 75231 3 Intro to Information Systems MR 1100-1215pm Huntley C
+IS 0100 F 75246 3 Intro to Information Systems MR 0200-0315pm Huntley C
+IS 0100 G 75887 3 Intro to Information Systems T 0630-0900pm Sklar D
+IS 0100 H 76469 3 Intro to Information Systems W 0630-0900pm Krishnamoorthy J
+IS 0135 A 76388 3 Fundamentals of Web Design W 0200-0430pm Huntley C
+IS 0240 A 75182 3 Systems Analysis & Logical Des MR 0330-0445pm Tao J
+IS 0260 A 75404 3 Database Systems TF 0330-0445pm Ozcelik Y
+IS 0310 A 75338 3 E-Business Applications R 0500-0730pm Ozcelik Y
+IS 0320 A 76389 3 Systems Design & Implementatio W 1100-0130pm Huntley C
+MG 0101 A 75257 3 Intro to Management W 0200-0430pm Cavanaugh J
+MG 0101 B 75258 3 Intro to Management T 0500-0730pm Cavanaugh J
+MG 0101 C 75259 3 Intro to Management MR 0200-0315pm Stafford L
+MG 0101 D 75260 3 Intro to Management MR 0330-0445pm Stafford L
+MG 0101 E 75314 3 Intro to Management TF 0330-0445pm Daulerio P
+MG 0101 F 75339 3 Intro to Management MR 0930-1045am Cerrone R
+MG 0101 G 75792 3 Intro to Management TF 0200-0315pm Daulerio P
+MG 0101 H 76821 3 Intro to Management TR 0500-0615pm STAFF
+MG 0101 I 76822 3 Intro to Management TR 0630-0745pm STAFF
+MG 0235 A 75310 3 Managing Human Resources MR 1100-1215pm Solomon N
+MG 0235 B 75406 3 Managing Human Resources MR 0200-0315pm Solomon N
+MG 0240 A 75183 3 Leading and Managing People TF 0930-1045am Mainiero L
+MG 0240 B 75225 3 Leading and Managing People TF 1100-1215pm Mainiero L
+MG 0300 A 75254 3 Bus Strategy Global Envir MR 0930-1045am Bhattacharya M
+MG 0300 B 75255 3 Bus Strategy Global Envir MR 1230-0145pm Bhattacharya M
+MG 0300 C 75842 3 Bus Strategy Global Envir TF 0930-1045am Scheraga C
+MG 0300 D 75299 3 Bus Strategy Global Envir TF 1230-0145pm Giapponi C
+MG 0300 E 75340 3 Bus Strategy Global Envir TF 1100-1215pm Giapponi C
+MG 0300 F 75826 3 Bus Strategy Global Envir R 0630-0900pm Bhattacharya M
+MG 0300 G 76823 3 Bus Strategy Global Envir MW 0500-0615pm STAFF
+MG 0300 H 76824 3 Bus Strategy Global Envir MW 0630-0745pm STAFF
+MG 0320 A 75184 3 Diversity in the Workplace R 0630-0900pm Baskin-Brooks J USDiv
+MG 0330 A 75311 3 Career Planning W 1100-0130pm Mainiero L
+MG 0335 A 75407 3 Entrepreneurship & Sm Bus Mgmt T 0630-0900pm Murray D
+MG 0337 A 75793 3 Technology Ventures TF 0200-0315pm Scheraga C
+MG 0340 A 75202 3 Critical Issues in Management M 0630-0900pm Cavanaugh J
+MG 0350 A 76825 3 International Law W 1100-0130pm Strauss D WDiv
+MG 0360 A 75341 3 Negotiation&Dispute Resolution T 0500-0730pm Solomon N
+MK 0101 A 75261 3 Principles of Marketing MR 0800-0915am STAFF
+MK 0101 B 75262 3 Principles of Marketing MR 1230-0145pm Naderi I
+MK 0101 C 75263 3 Principles of Marketing MR 0330-0445pm Naderi I
+MK 0101 D 75264 3 Principles of Marketing W 1100-0130pm Cavallo G
+MK 0101 E 75783 3 Principles of Marketing TR 0500-0615pm Sciandra M
+MK 0101 F 75785 3 Principles of Marketing TF 0930-1045am Sciandra M
+MK 0101 G 75786 3 Principles of Marketing TF 1100-1215pm Bose Godbole M ResColl
+MK 0101 H 75787 3 Principles of Marketing TF 1100-1215pm Sciandra M
+MK 0101 I 76769 3 Principles of Marketing TF 1230-0145pm Bose Godbole M
+MK 0212 A 75232 3 Consumer Behavior MR 1230-0145pm Chaudhuri A
+MK 0212 B 75291 3 Consumer Behavior MR 0200-0315pm Chaudhuri A
+MK 0212 C 75312 3 Consumer Behavior TR 0500-0615pm Chaudhuri A
+MK 0221 A 75439 3 Sales & Sales Management MR 0930-1045am Cavallo G
+MK 0221 B 75440 3 Sales & Sales Management MR 1100-1215pm Cavallo G
+MK 0231 A 75185 3 Advertising MR 0930-1045am Neal J Water
+MK 0231 B 75441 3 Advertising W 0200-0430pm Huetteman J
+MK 0311 A 75186 3 Marketing Research TF 0930-1045am Micu C
+MK 0311 B 75187 3 Marketing Research TF 1230-0145pm Micu C
+MK 0312 A 75201 3 Global Marketing MR 1100-1215pm Rajamma R WDiv
+MK 0312 B 76770 3 Global Marketing MR 0200-0315pm Rajamma R WDiv
+MK 0321 A 76771 3 Marketing Channels W 1100-0130pm Naderi I
+MK 0332 A 75203 3 Public Relations TF 0200-0315pm Neal J Water
+MK 0332 B 75464 3 Public Relations TF 0330-0445pm Neal J Water
+OM 0101 A 75265 3 Operations Management TF 1100-1215pm He J
+OM 0101 B 75266 3 Operations Management TF 0200-0315pm He J
+OM 0101 C 75267 3 Operations Management MR 0800-0915am Lee P
+OM 0101 D 75268 3 Operations Management MR 0930-1045am Lee P
+OM 0101 E 75269 3 Operations Management MR 0330-0445pm Lee P
+OM 0101 F 76387 3 Operations Management T 0630-0900pm Krishnamoorthy J
+OM 0101 G 76699 3 Operations Management R 0600-0900pm Sklar D
+EG 0031 C01 75278 3 Fundamentals of Engineering I MR 0930-1045am Munden R CRNST
+EG 0031 C02 75848 3 Fundamentals of Engineering I MR 1100-1215pm Munden R CRNST
+EG 0031 C03 76726 3 Fundamentals of Engineering I MR 0200-0315pm Munden R CRNST
+EG 0390 A 75488 3 Senior Design Project I T 0500-0615pm Munden R
+CD 0212 A 75574 3 Engineering Graphics II (CATIA) W 0630-0900pm Waugh K
+CR 0246 A 76400 3 Digital Electronics Design II W 1100-0130pm Cavallo J
+CR 0325 A 76710 3 Computer Graphics M 0630-0900pm STAFF
+CR 0331 A 76711 3 Biomedical Signal Processing MR 1230-0145pm Lyon D
+CR 0346 A 76712 3 Computer System Architecture MR 0200-0315pm STAFF
+EE 0207 A 76728 3 Electronic Materials W 0630-0900pm Govil P
+EE 0213 A 75161 3 Intro to Electric Circuits TF 1100-1215pm Balaji U
+EE 0213 B 75226 3 Intro Electric Circuits(PS/EG) M 0630-0900pm STAFF
+EE 0213L A 75710 1 Electric Circuits Lab (PS/EG) T 0630-0830pm Cavallo J
+EE 0213L B 75711 1 Electric Circuits Lab W 1100-0130pm Denenberg J
+EE 0213L C 76125 1 Electric Circuits Lab T 0200-0430pm Denenberg J
+EE 0231 A 75204 3 Intro to ElectCircuits&Devices MR 1100-1215pm Balaji U
+EE 0231L A 75717 1 Electronics Circuits Lab R 0500-0730pm Denenberg J
+EE 0301 A 75205 3 Signal & Systems I TF 0200-0315pm Balaji U
+EE 0315 A 76723 3 Nanoelectronics F 0630-0900pm STAFF
+EE 0346 A 75409 3 Embedded Microcontrollers R 0630-0900pm Lopes E
+EE 0383 A 76724 3 Wireless Systems I T 0630-0900pm Denenberg J
+EE 0385 A 76725 3 Powr Generation & Distribution U 0930-1130am STAFF
+MC 0290 A 75208 3 Engineering Systems Dynamics MR 0930-1045am Srinivas Sundarram S
+MC 0290 B 76401 3 Engineering Systems Dynamics TF 0930-1045am Srinivas Sundarram S
+ME 0201 A 75300 3 Engineering Statics MR 1100-1215pm Zabinski M
+ME 0201 B 75815 3 Engineering Statics MR 0330-0445pm Zabinski M
+ME 0201 C 76729 3 Engineering Statics MR 0500-0615pm Zabinski M
+ME 0206L A 75713 1 Mechanics Lab T 1230-0230pm Selsky G
+ME 0206L B 75714 1 Mechanics Lab T 0330-0530pm Selsky G
+ME 0206L C 75744 1 Mechanics Lab T 0630-0830pm Selsky G
+ME 0241 A 75247 3 Principles of Thermodynamics MR 0330-0445pm Etemad S
+ME 0241 B 75064 3 Principles of Thermodynamics M 0630-0900pm STAFF
+ME 0311 A 75065 3 Machine Design MR 1100-1215pm Srinivas Sundarram S
+ME 0311 B 76402 3 Machine Design R 0630-0900pm Dornfeld W
+ME 0319 A 76730 3 Appl of Finite Element Analys W 0630-0900pm Bauer G
+ME 0321 A 76399 3 Advanced Kinematics M 0630-0900pm Gunawardana R
+ME 0322 A 75465 3 Advanced Dynamics R 0630-0900pm Judge A
+ME 0346 A 76731 3 Energy Conversion R 0630-0900pm Anekwe C
+ME 0349 A 75573 3 Heat Transfer TF 0200-0315pm Etemad S
+ME 0349 B 75176 3 Heat Transfer MR 0200-0315pm Etemad S
+ME 0350L A 75715 1 Energy Transfer Lab M 0330-0530pm Wojna R
+ME 0350L B 75716 1 Energy Transfer Lab M 0630-0830pm Cupic K
+MF 0207 A 75466 3 Materials Science MR 0800-0915am Lutian M
+MF 0207 B 75742 3 Materials Science R 0630-0900pm Lutian M
+MF 0350 A 76404 3 Adv Prog LogicContrl (PLC)Syst T 0630-0900pm Craciun C
+SW 0201 A 75206 3 Software Engineering Methods T 0200-0430pm Rusu A
+SW 0202 A 75306 3 Software Design Methods M 0630-0900pm Rusu A
+SW 0204 A 75816 3 Software Project Management T 0630-0900pm Guelakis W
+SW 0232 A 75817 3 Adv Programm & Data Structures R 0630-0900pm LaMastra P
+SW 0304 A 75307 3 Web Development T 1100-0130pm Rusu A SerL
+SW 0355 A 75207 3 Database Management Systems W 0630-0900pm Corcoran J
+SW 0380 A 76734 3 Health Information Systems W 0200-0430pm Guelakis W
+SW 0382C A 75818 3 SpTopics: Android Applications M 0630-0900pm Govindaraja B
+NS 0110 A 75213 3 Intro Professional Nursing MR 0800-0915am OÕShea E
+NS 0112 A 75214 3 HealthcareDeliverySystems MR 1100-1215pm Planas J USDiv, SerL
+NS 0112 B 76536 3 Healthcare Delivery Systems MR 1100-1215pm Murphy M USDiv, SerL
+NS 0250 A 75252 3 Professional Nursing for RNÕs T 0530-0800pm Pomarico C RNNU,  USDiv
+NS 0272 A 75577 4 Geriatric Nursing MR 1230-0145pm Kris A ResColl
+NS 0272C A 75606 0 Geriatric Nursing Clinical T 0700-0200pm STAFF
+NS 0272C B 75609 0 Geriatric Nursing Clinical F 0700-0200pm STAFF
+NS 0272C C 75615 0 Geriatric Nursing Clinical F 0700-0200pm Saracino K
+NS 0272C D 75616 0 Geriatric Nursing Clinical W 0700-0200pm STAFF
+NS 0272C E 76738 0 Geriatric Nursing Clinical T 0700-0200pm STAFF
+NS 0301 A 75215 4 Health and Wellness MR 0200-0315pm Planas J
+NS 0301 B 76739 4 Health and Wellness MR 0330-0445pm STAFF
+NS 0301 S 75823 4 Health and Wellness TF 0200-0500pm Lovanio K SDNU
+NS 0301C A 75648 0 Health and Wellness Clinical T 0800-0300pm STAFF
+NS 0301C B 75649 0 Health and Wellness Clinical F 0800-0300pm STAFF
+NS 0301C C 75651 0 Health and Wellness Clinical W 0800-0300pm Saracino K
+NS 0301C D 75652 0 Health and Wellness Clinical F 0800-0300pm STAFF
+NS 0301C E 75654 0 Health and Wellness Clinical W 0800-0300pm STAFF
+NS 0301C F 75656 0 Health and Wellness Clinical F 0800-0300pm STAFF
+NS 0301C G 75658 0 Health and Wellness Clinical T 0800-0300pm STAFF
+NS 0301C H 75659 0 Health and Wellness Clinical W 0800-0300pm STAFF
+NS 0301C I 75660 0 Health and Wellness Clinical W 0800-0300pm STAFF
+NS 0301C J 75661 0 Health and Wellness Clinical M 0800-0300pm Saracino K SDNU
+NS 0301C K 75820 0 Health and Wellness Clinical W 0800-0300pm Saracino K SDNU
+NS 0301C L 75821 0 Health and Wellness Clinical W 0800-0300pm STAFF SDNU
+NS 0301C M 75822 0 Health and Wellness Clinical R 0800-0300pm Burrows K SDNU
+NS 0301C N 76742 0 Health and Wellness Clinical R 0800-0300pm STAFF SDNU
+NS 0301C O 76743 0 Health and Wellness Clinical T 0800-0300pm STAFF
+NS 0303 A 75216 3 Basic Pathophys&Pharmacology MR 0330-0445pm Iannino-Renz R
+NS 0303 B 75236 3 Basic Pathophys&Pharmacology MR 0930-1045am Kris A
+NS 0303 S 75827 3 Basic Pathophys&Pharmacology TF 0800-0915am Murphy M SDNU
+NS 0305 A 75217 4 Mental Health Nursing MR 1100-1215pm Beauvais A ResColl
+NS 0305 S 75828 4 Mental Health Nursing TF 0945-1245pm Wheeler K SDNU
+NS 0305C A 75618 0 Mental Health Nursing Clinical F 0700-0200pm STAFF
+NS 0305C B 75619 0 Mental Health Nursing Clinical W 0700-0200pm STAFF
+NS 0305C C 75620 0 Mental Health Nursing Clinical W 0700-0200pm STAFF
+NS 0305C D 75622 0 Mental Health Nursing Clinical T 0700-0200pm STAFF
+NS 0305C E 75623 0 Mental Health Nursing Clinical T 0700-0200pm STAFF
+NS 0305C F 75624 0 Mental Health Nursing Clinical T 0700-0200pm STAFF
+NS 0305C G 75829 0 Mental Health Nursing Clinical R 0200-0900pm STAFF SDNU
+NS 0305C H 75830 0 Mental Health Nursing Clinical W 0700-0200pm STAFF SDNU
+NS 0305C I 75831 0 Mental Health Nursing Clinical W 0700-0200pm STAFF SDNU
+NS 0305C J 76061 0 Mental Health Nursing Clinical W 0700-0200pm STAFF SDNU
+NS 0305C K 76745 0 Mental Health Nursing Clinical R 0700-0200pm STAFF SDNU
+NS 0305C L 76746 0 Mental Health Nursing Clinical R 0700-0200pm STAFF SDNU
+NS 0305C M 76747 0 Mental Health Nursing Clinical S 0700-0200pm STAFF SDNU
+NS 0305C N 76748 0 Mental Health Nursing Clinical F 0700-0200pm STAFF
+NS 0307 A 75218 3 Fundmtls of Nursing Care W 0330-0445pm Mager D
+NS 0307L A 75625 0 Fundmtls of Nursing Care Lab TR 0800-0950am Saracino K
+NS 0307L B 75626 0 Fundmtls of Nursing Care Lab MW 1000-1150am STAFF
+NS 0307L C 75627 0 Fundmtls of Nursing Care Lab TR 1000-1150am Saracino K
+NS 0307L D 75628 0 Fundmtls of Nursing Care Lab MR 0600-0750pm STAFF
+NS 0307L E 75629 0 Fundmtls of Nursing Care Lab MR 0330-0520pm STAFF
+NS 0307L F 76749 0 Fundmtls of Nursing Care Lab MW 0800-0950am STAFF
+NS 0307L G 76750 0 Fundmtls of Nursing Care Lab MR 1200-0150pm STAFF
+NS 0310 A 75277 3 Fdnts/Research Evid Based Prac W 0500-0730pm Sumpio C RNNU
+NS 0312 S 75834 5 Medical Surgical Nursing I TF 1055-0155pm Burrows K SDNU
+NS 0312C A 75835 0 Medl Surgical Nursing I Clinic M 0700-0200pm STAFF SDNU
+NS 0312C B 75836 0 Medl Surgical Nursing I Clinic W 0700-0200pm STAFF SDNU
+NS 0312C C 75837 0 Medl Surgical Nursing I Clinic M 0700-0200pm Burrows K
+NS 0312C D 75838 0 Medl Surgical Nursing I Clinic R 0700-0200pm STAFF
+NS 0312C E 75839 0 Medl Surgical Nursing I Clinic W 1230-0730pm STAFF SDNU
+NS 0312C F 76062 0 Medl Surgical Nursing I Clinic R 0100-0800pm STAFF SDNU
+NS 0314 A 75384 4 Maternal and Newborn Nursing MR 0930-1045am LoGiudice J
+NS 0314C A 75630 0 Maternal/Newborn Nursing Clin T 0700-0100pm Manister N
+NS 0314C B 75631 0 Maternal/Newborn Nursing Clin W 0700-0100pm Manister N
+NS 0314C C 75632 0 Maternal/Newborn Nursing Clin W 0700-0100pm Burrows K
+NS 0314C D 75709 0 Maternal/Newborn Nursing Clin F 0700-0100pm STAFF
+NS 0314C E 76751 0 Maternal/Newborn Nursing Clin T 0700-0100pm LoGiudice J
+NS 0323 A 75237 4 Pediatric Nursing MR 0200-0315pm OÕShea E SerL
+NS 0323C A 75633 0 Pediatric Nursing Clinical T 0700-0100pm Roney L
+NS 0323C B 75634 0 Pediatric Nursing Clinical T 0700-0100pm STAFF
+NS 0323C C 75635 0 Pediatric Nursing Clinical W 0700-0100pm STAFF
+NS 0323C D 75636 0 Pediatric Nursing Clinical W 0700-0100pm STAFF
+NS 0323C E 75637 0 Pediatric Nursing Clinical T 0700-0100pm STAFF
+NS 0323C F 75832 0 Pediatric Nursing Clinical T 0700-0100pm STAFF
+NS 0323C G 75833 0 Pediatric Nursing Clinical T 0700-0100pm Roney L
+NS 0325 A 75238 5 Medical Surgical Nursing II MR 0330-0445pm Chaplik S
+NS 0325 B 75239 5 Medical Surgical Nursing II MR 1230-0145pm Sumpio C
+NS 0325C A 75638 0 Med Surgical Nursing II Clinic T 0100-0800pm Iannino-Renz R
+NS 0325C B 75639 0 Med Surgical Nursing II Clinic W 0700-0200pm Iannino-Renz R
+NS 0325C C 75640 0 Med Surgical Nursing II Clinic W 0700-0200pm STAFF
+NS 0325C D 75641 0 Med Surgical Nursing II Clinic W 0700-0200pm Bartos S
+NS 0325C E 75642 0 Med Surgical Nursing II Clinic F 0700-0200pm STAFF
+NS 0325C F 75643 0 Med Surgical Nursing II Clinic F 0700-0200pm STAFF
+NS 0325C G 75644 0 Med Surgical Nursing II Clinic T 0700-0200pm STAFF
+NS 0325C H 75645 0 Med Surgical Nursing II Clinic T 0700-0200pm STAFF
+NS 0330 A 75396 4 Comm,Pub & Globl Hlth Nursing W 0530-0800pm Mager D RNNU,  Wdiv
+NS 0330C A 75676 0 CommPub&GlblHlthNsCllinical W 0800-0430pm STAFF RNNU, SerL
+NS 0330C B 75678 0 CommPub&GlblHlthNsCllinical W 0800-0430pm STAFF RNNU, SerL,  Nicaragua Jan.
+NS 0330C C 76752 0 CommPub&GlblHlthNsCllinical W 0800-0430pm STAFF RNNU, SerL
